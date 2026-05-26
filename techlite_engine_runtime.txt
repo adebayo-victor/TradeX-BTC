@@ -1,0 +1,1353 @@
+=== TECHLITE INSTITUTIONAL FUNCTIONAL ENGINE LOG SYSTEM ===
+
+[2026-05-20 13:53:21] 📞 SYSTEM INITIATION: Running M15 core engine execution loop for [XAUUSDm]...
+[2026-05-20 13:53:44] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 13:53:44] 🛰️ SCANNERS ENGAGED: Tracking metrics live. Standing by...
+[2026-05-20 13:53:46] 👀 M15 SCANNING - Price: 4539.55 | Bias: ↘️ RED | Vib: -0.0072 | Slope: 0.00039
+[2026-05-20 13:53:48] 👀 M15 SCANNING - Price: 4499.78 | Bias: ↗️ GREEN | Vib: -0.8932 | Slope: 0.00106
+[2026-05-20 13:53:48] 💥 CONFLUENCE HIT: Confluences aligned. Sending market execution orders...
+[2026-05-20 13:53:48] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 13:53:50] 👀 M15 SCANNING - Price: 4499.78 | Bias: ↗️ GREEN | Vib: -0.8932 | Slope: 0.00106
+[2026-05-20 13:53:50] 💥 CONFLUENCE HIT: Confluences aligned. Sending market execution orders...
+[2026-05-20 13:53:50] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 13:53:52] 👀 M15 SCANNING - Price: 4499.78 | Bias: ↗️ GREEN | Vib: -0.8932 | Slope: 0.00106
+[2026-05-20 13:53:52] 💥 CONFLUENCE HIT: Confluences aligned. Sending market execution orders...
+[2026-05-20 13:53:52] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 13:53:53] 👀 M15 SCANNING - Price: 4499.90 | Bias: ↗️ GREEN | Vib: -0.8850 | Slope: 0.00106
+[2026-05-20 13:53:53] 💥 CONFLUENCE HIT: Confluences aligned. Sending market execution orders...
+[2026-05-20 13:53:53] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 13:53:55] 👀 M15 SCANNING - Price: 4499.72 | Bias: ↗️ GREEN | Vib: -0.8965 | Slope: 0.00106
+[2026-05-20 13:53:55] 💥 CONFLUENCE HIT: Confluences aligned. Sending market execution orders...
+[2026-05-20 13:53:55] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 13:53:57] 👀 M15 SCANNING - Price: 4499.68 | Bias: ↗️ GREEN | Vib: -0.8990 | Slope: 0.00106
+[2026-05-20 13:53:57] 💥 CONFLUENCE HIT: Confluences aligned. Sending market execution orders...
+[2026-05-20 13:53:58] ✅ EXECUTED: Ticket #2763625916 loaded at 4500.02800.
+[2026-05-20 13:53:58] 🏃 RIDING POSITION: #2763625916 | Price: 4499.68300 | Trailing: False
+[2026-05-20 13:54:00] 🏃 RIDING POSITION: #2763625916 | Price: 4500.13000 | Trailing: False
+[2026-05-20 13:54:01] 🏃 RIDING POSITION: #2763625916 | Price: 4500.14800 | Trailing: False
+[2026-05-20 13:54:03] 🏃 RIDING POSITION: #2763625916 | Price: 4500.14800 | Trailing: False
+[2026-05-20 13:54:04] 🏃 RIDING POSITION: #2763625916 | Price: 4500.15800 | Trailing: False
+[2026-05-20 13:54:06] 🏃 RIDING POSITION: #2763625916 | Price: 4500.16300 | Trailing: False
+[2026-05-20 13:54:07] 🏃 RIDING POSITION: #2763625916 | Price: 4500.16300 | Trailing: False
+[2026-05-20 13:54:09] 🏃 RIDING POSITION: #2763625916 | Price: 4500.16400 | Trailing: False
+[2026-05-20 13:54:11] 🏃 RIDING POSITION: #2763625916 | Price: 4500.19100 | Trailing: False
+[2026-05-20 13:54:12] 🏃 RIDING POSITION: #2763625916 | Price: 4500.29800 | Trailing: False
+[2026-05-20 13:54:14] 🏃 RIDING POSITION: #2763625916 | Price: 4500.35800 | Trailing: False
+[2026-05-20 13:54:15] 🏃 RIDING POSITION: #2763625916 | Price: 4500.33200 | Trailing: False
+[2026-05-20 13:56:05] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 13:59:54] 📞 SYSTEM INITIATION: Running M15 core engine execution loop for [XAUUSDm]...
+[2026-05-20 13:59:54] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 13:59:54] 🛰️ SCANNERS ENGAGED: Tracking metrics on candle sequence updates...
+[2026-05-20 13:59:54] 🎬 NEW CANDLE DETECTED: [2026-05-20 12:45:00] - Executing algorithmic matrix...
+[2026-05-20 13:59:55] 📊 BAR EVALUATION - Close: 4495.58 | Bias: ↗️ GREEN | Vib: -0.9245 | Slope: 0.00106
+[2026-05-20 14:00:03] 🎬 NEW CANDLE DETECTED: [2026-05-20 13:00:00] - Executing algorithmic matrix...
+[2026-05-20 14:00:03] 📊 BAR EVALUATION - Close: 4495.90 | Bias: ↗️ GREEN | Vib: -0.9296 | Slope: 0.00088
+[2026-05-20 14:06:44] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 14:07:00] 📞 SYSTEM INITIATION: Running M15 core engine execution loop for [XAUUSDm]...
+[2026-05-20 14:07:00] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 14:07:00] 🛰️ SCANNERS ENGAGED: Tracking metrics on candle sequence updates...
+[2026-05-20 14:07:00] 🎬 NEW CANDLE DETECTED: [2026-05-20 13:00:00] - Executing algorithmic matrix...
+[2026-05-20 14:07:00] 📊 BAR EVALUATION - Close: 4499.97 | Bias: ↗️ GREEN | Vib: -0.9632 | Slope: 0.00088
+[2026-05-20 14:12:40] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 14:13:19] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSDm]...
+[2026-05-20 14:13:19] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 14:13:19] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 14:13:22] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:13:00] - Executing algorithmic matrix...
+[2026-05-20 14:13:22] 📊 M1 BAR EVALUATION - Close: 4499.15 | Bias: ↘️ RED | Vib: -0.6504 | Slope: 0.00020
+[2026-05-20 14:14:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:14:00] - Executing algorithmic matrix...
+[2026-05-20 14:14:03] 📊 M1 BAR EVALUATION - Close: 4502.40 | Bias: ↘️ RED | Vib: -0.9434 | Slope: 0.00006
+[2026-05-20 14:15:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:15:00] - Executing algorithmic matrix...
+[2026-05-20 14:15:03] 📊 M1 BAR EVALUATION - Close: 4504.69 | Bias: ↗️ GREEN | Vib: -1.1579 | Slope: 0.00047
+[2026-05-20 14:16:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:16:00] - Executing algorithmic matrix...
+[2026-05-20 14:16:03] 📊 M1 BAR EVALUATION - Close: 4503.02 | Bias: ↗️ GREEN | Vib: -1.2196 | Slope: 0.00048
+[2026-05-20 14:17:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:17:00] - Executing algorithmic matrix...
+[2026-05-20 14:17:03] 📊 M1 BAR EVALUATION - Close: 4503.02 | Bias: ↗️ GREEN | Vib: -1.1784 | Slope: 0.00008
+[2026-05-20 14:18:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:18:00] - Executing algorithmic matrix...
+[2026-05-20 14:18:04] 📊 M1 BAR EVALUATION - Close: 4501.51 | Bias: ↗️ GREEN | Vib: -1.1209 | Slope: 0.00008
+[2026-05-20 14:19:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:19:00] - Executing algorithmic matrix...
+[2026-05-20 14:19:03] 📊 M1 BAR EVALUATION - Close: 4501.24 | Bias: ↗️ GREEN | Vib: -1.0205 | Slope: 0.00002
+[2026-05-20 14:20:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:20:00] - Executing algorithmic matrix...
+[2026-05-20 14:20:03] 📊 M1 BAR EVALUATION - Close: 4499.90 | Bias: ↗️ GREEN | Vib: -0.8804 | Slope: 0.00000
+[2026-05-20 14:21:16] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:21:00] - Executing algorithmic matrix...
+[2026-05-20 14:21:17] 📊 M1 BAR EVALUATION - Close: 4498.04 | Bias: ↗️ GREEN | Vib: -0.8616 | Slope: 0.00006
+[2026-05-20 14:22:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:22:00] - Executing algorithmic matrix...
+[2026-05-20 14:22:04] 📊 M1 BAR EVALUATION - Close: 4497.70 | Bias: ↘️ RED | Vib: -0.5059 | Slope: 0.00006
+[2026-05-20 14:23:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:23:00] - Executing algorithmic matrix...
+[2026-05-20 14:23:02] 📊 M1 BAR EVALUATION - Close: 4496.29 | Bias: ↘️ RED | Vib: -0.4454 | Slope: 0.00022
+[2026-05-20 14:23:02] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 14:23:03] ✅ EXECUTED: Ticket #2763773645 loaded at 4495.97100.
+[2026-05-20 14:24:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:24:00] - Executing algorithmic matrix...
+[2026-05-20 14:25:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:25:00] - Executing algorithmic matrix...
+[2026-05-20 14:26:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:26:00] - Executing algorithmic matrix...
+[2026-05-20 14:26:16] 🔓 LOCK: Trailing engine ACTIVATED. SL protected at: 4495.52140
+[2026-05-20 14:27:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:27:00] - Executing algorithmic matrix...
+[2026-05-20 14:28:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:28:00] - Executing algorithmic matrix...
+[2026-05-20 14:28:36] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 14:29:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:29:00] - Executing algorithmic matrix...
+[2026-05-20 14:29:04] 📊 M1 BAR EVALUATION - Close: 4491.52 | Bias: ↘️ RED | Vib: 0.9751 | Slope: 0.00052
+[2026-05-20 14:30:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:30:00] - Executing algorithmic matrix...
+[2026-05-20 14:30:03] 📊 M1 BAR EVALUATION - Close: 4489.28 | Bias: ↘️ RED | Vib: 0.8220 | Slope: 0.00048
+[2026-05-20 14:30:03] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 14:30:04] ✅ EXECUTED: Ticket #2763813724 loaded at 4488.26000.
+[2026-05-20 14:31:57] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:31:00] - Executing algorithmic matrix...
+[2026-05-20 14:32:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:32:00] - Executing algorithmic matrix...
+[2026-05-20 14:33:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:33:00] - Executing algorithmic matrix...
+[2026-05-20 14:33:17] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 14:33:25] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSDm]...
+[2026-05-20 14:33:25] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 14:33:25] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 14:33:25] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:33:00] - Executing algorithmic matrix...
+[2026-05-20 14:33:26] 📊 M1 BAR EVALUATION - Close: 4491.17 | Bias: ↘️ RED | Vib: 0.2957 | Slope: 0.00044
+[2026-05-20 14:34:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:34:00] - Executing algorithmic matrix...
+[2026-05-20 14:34:03] 📊 M1 BAR EVALUATION - Close: 4491.72 | Bias: ↘️ RED | Vib: -0.8237 | Slope: 0.00028
+[2026-05-20 14:35:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:35:00] - Executing algorithmic matrix...
+[2026-05-20 14:35:02] 📊 M1 BAR EVALUATION - Close: 4491.06 | Bias: ↘️ RED | Vib: -0.5398 | Slope: 0.00041
+[2026-05-20 14:36:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:36:00] - Executing algorithmic matrix...
+[2026-05-20 14:36:02] 📊 M1 BAR EVALUATION - Close: 4490.01 | Bias: ↘️ RED | Vib: -0.6871 | Slope: 0.00022
+[2026-05-20 14:37:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:37:00] - Executing algorithmic matrix...
+[2026-05-20 14:37:03] 📊 M1 BAR EVALUATION - Close: 4489.94 | Bias: ↘️ RED | Vib: -0.7250 | Slope: 0.00021
+[2026-05-20 14:38:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:38:00] - Executing algorithmic matrix...
+[2026-05-20 14:38:03] 📊 M1 BAR EVALUATION - Close: 4486.34 | Bias: ↘️ RED | Vib: -0.3056 | Slope: 0.00028
+[2026-05-20 14:39:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:39:00] - Executing algorithmic matrix...
+[2026-05-20 14:39:03] 📊 M1 BAR EVALUATION - Close: 4486.20 | Bias: ↘️ RED | Vib: 0.0522 | Slope: 0.00023
+[2026-05-20 14:40:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:40:00] - Executing algorithmic matrix...
+[2026-05-20 14:40:03] 📊 M1 BAR EVALUATION - Close: 4485.76 | Bias: ↘️ RED | Vib: -0.0678 | Slope: 0.00010
+[2026-05-20 14:41:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:41:00] - Executing algorithmic matrix...
+[2026-05-20 14:41:02] 📊 M1 BAR EVALUATION - Close: 4487.90 | Bias: ↘️ RED | Vib: 0.0066 | Slope: 0.00010
+[2026-05-20 14:42:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:42:00] - Executing algorithmic matrix...
+[2026-05-20 14:42:03] 📊 M1 BAR EVALUATION - Close: 4484.54 | Bias: ↘️ RED | Vib: -0.3397 | Slope: 0.00022
+[2026-05-20 14:43:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:43:00] - Executing algorithmic matrix...
+[2026-05-20 14:43:03] 📊 M1 BAR EVALUATION - Close: 4484.35 | Bias: ↘️ RED | Vib: -0.2978 | Slope: 0.00020
+[2026-05-20 14:44:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:44:00] - Executing algorithmic matrix...
+[2026-05-20 14:44:03] 📊 M1 BAR EVALUATION - Close: 4487.31 | Bias: ↘️ RED | Vib: -0.1840 | Slope: 0.00022
+[2026-05-20 14:45:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:45:00] - Executing algorithmic matrix...
+[2026-05-20 14:45:03] 📊 M1 BAR EVALUATION - Close: 4489.65 | Bias: ↘️ RED | Vib: -0.4685 | Slope: 0.00025
+[2026-05-20 14:46:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:46:00] - Executing algorithmic matrix...
+[2026-05-20 14:46:04] 📊 M1 BAR EVALUATION - Close: 4489.80 | Bias: ↘️ RED | Vib: -0.2933 | Slope: 0.00016
+[2026-05-20 14:47:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:47:00] - Executing algorithmic matrix...
+[2026-05-20 14:47:05] 📊 M1 BAR EVALUATION - Close: 4490.37 | Bias: ↘️ RED | Vib: -0.2735 | Slope: 0.00004
+[2026-05-20 14:48:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:48:00] - Executing algorithmic matrix...
+[2026-05-20 14:48:04] 📊 M1 BAR EVALUATION - Close: 4491.31 | Bias: ↘️ RED | Vib: -0.1592 | Slope: 0.00009
+[2026-05-20 14:49:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:49:00] - Executing algorithmic matrix...
+[2026-05-20 14:49:03] 📊 M1 BAR EVALUATION - Close: 4489.12 | Bias: ↘️ RED | Vib: -0.1076 | Slope: 0.00009
+[2026-05-20 14:50:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:50:00] - Executing algorithmic matrix...
+[2026-05-20 14:50:02] 📊 M1 BAR EVALUATION - Close: 4487.10 | Bias: ↘️ RED | Vib: -0.2850 | Slope: 0.00000
+[2026-05-20 14:51:06] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:51:00] - Executing algorithmic matrix...
+[2026-05-20 14:51:07] 📊 M1 BAR EVALUATION - Close: 4487.16 | Bias: ↘️ RED | Vib: -0.4328 | Slope: 0.00013
+[2026-05-20 14:51:25] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 14:51:35] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSDm]...
+[2026-05-20 14:51:35] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 14:51:35] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 14:51:35] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:51:00] - Executing algorithmic matrix...
+[2026-05-20 14:51:35] 📊 M1 BAR EVALUATION - Close: 4485.98 | Bias: ↘️ RED | Vib: -0.6433 | Slope: 0.00013
+[2026-05-20 14:52:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:52:00] - Executing algorithmic matrix...
+[2026-05-20 14:52:03] 📊 M1 BAR EVALUATION - Close: 4488.35 | Bias: ↘️ RED | Vib: -0.3742 | Slope: 0.00021
+[2026-05-20 14:53:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:53:00] - Executing algorithmic matrix...
+[2026-05-20 14:53:02] 📊 M1 BAR EVALUATION - Close: 4487.43 | Bias: ↘️ RED | Vib: -0.3460 | Slope: 0.00021
+[2026-05-20 14:54:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:54:00] - Executing algorithmic matrix...
+[2026-05-20 14:54:03] 📊 M1 BAR EVALUATION - Close: 4487.03 | Bias: ↘️ RED | Vib: -0.3546 | Slope: 0.00008
+[2026-05-20 14:55:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:55:00] - Executing algorithmic matrix...
+[2026-05-20 14:55:02] 📊 M1 BAR EVALUATION - Close: 4485.88 | Bias: ↘️ RED | Vib: -0.2995 | Slope: 0.00000
+[2026-05-20 14:56:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:56:00] - Executing algorithmic matrix...
+[2026-05-20 14:56:03] 📊 M1 BAR EVALUATION - Close: 4484.01 | Bias: ↘️ RED | Vib: -0.5522 | Slope: 0.00014
+[2026-05-20 14:56:03] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 14:56:03] ✅ EXECUTED: Ticket #2763977774 loaded at 4483.70200.
+[2026-05-20 14:59:35] 📉 TRAIL MOVED: SELL #2763977774 SL lowered to 4483.59
+[2026-05-20 14:59:57] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 14:59:58] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 13:59:00] - Executing algorithmic matrix...
+[2026-05-20 14:59:58] 📊 M1 BAR EVALUATION - Close: 4483.46 | Bias: ↘️ RED | Vib: -0.8107 | Slope: 0.00039
+[2026-05-20 15:00:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 14:00:00] - Executing algorithmic matrix...
+[2026-05-20 15:00:03] 📊 M1 BAR EVALUATION - Close: 4484.74 | Bias: ↘️ RED | Vib: -0.7427 | Slope: 0.00016
+[2026-05-20 15:01:06] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 14:01:00] - Executing algorithmic matrix...
+[2026-05-20 15:01:06] 📊 M1 BAR EVALUATION - Close: 4485.09 | Bias: ↘️ RED | Vib: -0.6048 | Slope: 0.00012
+[2026-05-20 15:02:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 14:02:00] - Executing algorithmic matrix...
+[2026-05-20 15:02:04] 📊 M1 BAR EVALUATION - Close: 4482.48 | Bias: ↘️ RED | Vib: -0.7926 | Slope: 0.00022
+[2026-05-20 15:02:04] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:02:04] ✅ EXECUTED: Ticket #2764009966 loaded at 4482.67300.
+[2026-05-20 15:04:51] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 15:04:52] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 14:04:00] - Executing algorithmic matrix...
+[2026-05-20 15:04:52] 📊 M1 BAR EVALUATION - Close: 4481.59 | Bias: ↘️ RED | Vib: -1.4111 | Slope: 0.00042
+[2026-05-20 15:05:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 14:05:00] - Executing algorithmic matrix...
+[2026-05-20 15:05:03] 📊 M1 BAR EVALUATION - Close: 4480.99 | Bias: ↘️ RED | Vib: -1.3545 | Slope: 0.00026
+[2026-05-20 15:05:08] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 15:07:42] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:08:51] ❌ ERROR: Initialization pipelines could not lock connections.
+[2026-05-20 15:10:59] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:12:06] ❌ ERROR: Initialization pipelines could not lock connections.
+[2026-05-20 15:12:12] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:13:19] ❌ ERROR: Initialization pipelines could not lock connections.
+[2026-05-20 15:14:27] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:14:27] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 15:14:27] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 15:14:28] 🎬 NEW M1 CANDLE DETECTED: [2026-05-13 23:54:00] - Executing algorithmic matrix...
+[2026-05-20 15:14:28] 📊 M1 BAR EVALUATION - Close: 4687.81 | Bias: ↘️ RED | Vib: -0.9843 | Slope: 0.00022
+[2026-05-20 15:14:28] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:14:28] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 15:14:29] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:14:00] - Executing algorithmic matrix...
+[2026-05-20 15:14:29] 📊 M1 BAR EVALUATION - Close: 4476.39 | Bias: ↘️ RED | Vib: 15.0492 | Slope: 0.02391
+[2026-05-20 15:14:29] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:14:29] ❌ FAILURE: Server execution rejected request parameters.
+[2026-05-20 15:15:21] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:15:00] - Executing algorithmic matrix...
+[2026-05-20 15:15:21] 📊 M1 BAR EVALUATION - Close: 4479.57 | Bias: ↘️ RED | Vib: 0.6814 | Slope: 0.00044
+[2026-05-20 15:16:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:16:00] - Executing algorithmic matrix...
+[2026-05-20 15:16:03] 📊 M1 BAR EVALUATION - Close: 4484.11 | Bias: ↘️ RED | Vib: 0.5805 | Slope: 0.00032
+[2026-05-20 15:17:38] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:17:38] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open.
+[2026-05-20 15:17:38] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 15:17:38] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:17:00] - Executing algorithmic matrix...
+[2026-05-20 15:17:38] 📊 M1 BAR EVALUATION - Close: 4492.11 | Bias: ↗️ GREEN | Vib: 3.3708 | Slope: 0.00243
+[2026-05-20 15:17:38] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:17:39] ✅ EXECUTED: Ticket #1932034987 loaded at 4492.64000.
+[2026-05-20 15:18:33] 📈 TRAIL MOVED: BUY #1932034987 SL advanced to 4493.35
+[2026-05-20 15:18:36] ⚠️ TRAIL REJECTED: Code 10036 from live server
+[2026-05-20 15:18:36] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 15:18:38] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:18:00] - Executing algorithmic matrix...
+[2026-05-20 15:18:38] 📊 M1 BAR EVALUATION - Close: 4497.07 | Bias: ↗️ GREEN | Vib: 1.3828 | Slope: 0.00211
+[2026-05-20 15:19:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:19:00] - Executing algorithmic matrix...
+[2026-05-20 15:19:03] 📊 M1 BAR EVALUATION - Close: 4497.02 | Bias: ↗️ GREEN | Vib: 1.4182 | Slope: 0.00056
+[2026-05-20 15:20:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:20:00] - Executing algorithmic matrix...
+[2026-05-20 15:20:03] 📊 M1 BAR EVALUATION - Close: 4498.60 | Bias: ↗️ GREEN | Vib: 1.3997 | Slope: 0.00008
+[2026-05-20 15:21:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:21:00] - Executing algorithmic matrix...
+[2026-05-20 15:21:03] 📊 M1 BAR EVALUATION - Close: 4500.15 | Bias: ↗️ GREEN | Vib: 1.3448 | Slope: 0.00008
+[2026-05-20 15:22:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:22:00] - Executing algorithmic matrix...
+[2026-05-20 15:22:02] 📊 M1 BAR EVALUATION - Close: 4505.03 | Bias: ↗️ GREEN | Vib: 0.9555 | Slope: 0.00083
+[2026-05-20 15:22:02] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:22:03] ✅ EXECUTED: Ticket #1932094895 loaded at 4505.45000.
+[2026-05-20 15:22:30] 📈 TRAIL MOVED: BUY #1932094895 SL advanced to 4505.57
+[2026-05-20 15:22:32] 📈 TRAIL MOVED: BUY #1932094895 SL advanced to 4508.52
+[2026-05-20 15:22:35] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 15:23:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:23:00] - Executing algorithmic matrix...
+[2026-05-20 15:23:04] 📊 M1 BAR EVALUATION - Close: 4508.10 | Bias: ↗️ GREEN | Vib: 0.9199 | Slope: 0.00183
+[2026-05-20 15:24:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:24:00] - Executing algorithmic matrix...
+[2026-05-20 15:24:04] 📊 M1 BAR EVALUATION - Close: 4503.04 | Bias: ↗️ GREEN | Vib: 0.6080 | Slope: 0.00204
+[2026-05-20 15:24:04] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:24:05] ✅ EXECUTED: Ticket #1932126460 loaded at 4503.26000.
+[2026-05-20 15:24:40] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 15:25:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:25:00] - Executing algorithmic matrix...
+[2026-05-20 15:25:03] 📊 M1 BAR EVALUATION - Close: 4502.27 | Bias: ↗️ GREEN | Vib: 0.7148 | Slope: 0.00200
+[2026-05-20 15:26:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:26:00] - Executing algorithmic matrix...
+[2026-05-20 15:26:04] 📊 M1 BAR EVALUATION - Close: 4501.07 | Bias: ↗️ GREEN | Vib: 0.6851 | Slope: 0.00141
+[2026-05-20 15:27:05] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:27:00] - Executing algorithmic matrix...
+[2026-05-20 15:27:05] 📊 M1 BAR EVALUATION - Close: 4505.11 | Bias: ↗️ GREEN | Vib: 0.5936 | Slope: 0.00148
+[2026-05-20 15:27:05] 💥 CONFLUENCE VALIDATED: Dispatching M1 market execution orders...
+[2026-05-20 15:27:06] ✅ EXECUTED: Ticket #1932155864 loaded at 4505.19000.
+[2026-05-20 15:27:40] 📈 TRAIL MOVED: BUY #1932155864 SL advanced to 4505.55
+[2026-05-20 15:27:43] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics.
+[2026-05-20 15:28:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:28:00] - Executing algorithmic matrix...
+[2026-05-20 15:28:02] 📊 M1 BAR EVALUATION - Close: 4506.04 | Bias: ↗️ GREEN | Vib: 0.7069 | Slope: 0.00082
+[2026-05-20 15:28:45] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 15:28:54] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:28:55] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 15:28:55] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 15:28:55] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:28:00] - Executing matrix...
+[2026-05-20 15:28:55] 📊 M1 EVAL - Close: 4505.64 | Bias: ↗️ GREEN | Vib: 0.6934
+[2026-05-20 15:29:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:29:00] - Executing matrix...
+[2026-05-20 15:29:03] 📊 M1 EVAL - Close: 4504.97 | Bias: ↗️ GREEN | Vib: 0.7084
+[2026-05-20 15:30:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:30:00] - Executing matrix...
+[2026-05-20 15:30:03] 📊 M1 EVAL - Close: 4507.31 | Bias: ↗️ GREEN | Vib: 0.8537
+[2026-05-20 15:31:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:31:00] - Executing matrix...
+[2026-05-20 15:31:03] 📊 M1 EVAL - Close: 4520.00 | Bias: ↗️ GREEN | Vib: 0.2398
+[2026-05-20 15:32:18] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:32:00] - Executing matrix...
+[2026-05-20 15:32:18] 📊 M1 EVAL - Close: 4525.49 | Bias: ↗️ GREEN | Vib: 0.6163
+[2026-05-20 15:32:18] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 15:32:19] ✅ EXECUTED: Ticket #1932223909 loaded at 4525.88.
+[2026-05-20 15:39:27] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 15:39:40] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:39:40] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 15:39:40] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 15:39:41] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:39:00] - Executing matrix...
+[2026-05-20 15:39:41] 📊 M1 EVAL - Close: 4522.67 | Bias: ↗️ GREEN | Vib: 3.1929
+[2026-05-20 15:39:41] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 15:39:42] ✅ EXECUTED: Ticket #1932292606 loaded at 4522.91.
+[2026-05-20 15:39:59] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 15:40:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:40:00] - Executing matrix...
+[2026-05-20 15:40:04] 📊 M1 EVAL - Close: 4522.93 | Bias: ↗️ GREEN | Vib: 2.9225
+[2026-05-20 15:41:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:41:00] - Executing matrix...
+[2026-05-20 15:41:04] 📊 M1 EVAL - Close: 4522.63 | Bias: ↗️ GREEN | Vib: 3.7000
+[2026-05-20 15:42:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:42:00] - Executing matrix...
+[2026-05-20 15:42:03] 📊 M1 EVAL - Close: 4518.48 | Bias: ↗️ GREEN | Vib: 3.4339
+[2026-05-20 15:43:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:43:00] - Executing matrix...
+[2026-05-20 15:43:04] 📊 M1 EVAL - Close: 4518.83 | Bias: ↗️ GREEN | Vib: 4.3627
+[2026-05-20 15:44:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:44:00] - Executing matrix...
+[2026-05-20 15:44:03] 📊 M1 EVAL - Close: 4518.61 | Bias: ↗️ GREEN | Vib: 4.4104
+[2026-05-20 15:45:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:45:00] - Executing matrix...
+[2026-05-20 15:45:03] 📊 M1 EVAL - Close: 4521.24 | Bias: ↗️ GREEN | Vib: 4.2957
+[2026-05-20 15:46:17] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:46:00] - Executing matrix...
+[2026-05-20 15:46:18] 📊 M1 EVAL - Close: 4518.66 | Bias: ↗️ GREEN | Vib: 4.3286
+[2026-05-20 15:46:23] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 15:46:37] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 15:46:37] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 15:46:37] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 15:46:38] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:46:00] - Executing matrix...
+[2026-05-20 15:46:38] 📊 M1 EVAL - Close: 4518.92 | Bias: ↗️ GREEN | Vib: 4.2878
+[2026-05-20 15:47:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:47:00] - Executing matrix...
+[2026-05-20 15:47:03] 📊 M1 EVAL - Close: 4518.46 | Bias: ↗️ GREEN | Vib: 4.5478
+[2026-05-20 15:48:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:48:00] - Executing matrix...
+[2026-05-20 15:48:03] 📊 M1 EVAL - Close: 4521.29 | Bias: ↗️ GREEN | Vib: 4.1309
+[2026-05-20 15:49:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:49:00] - Executing matrix...
+[2026-05-20 15:49:03] 📊 M1 EVAL - Close: 4522.97 | Bias: ↗️ GREEN | Vib: 4.1194
+[2026-05-20 15:50:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:50:00] - Executing matrix...
+[2026-05-20 15:50:02] 📊 M1 EVAL - Close: 4521.97 | Bias: ↗️ GREEN | Vib: -0.3609
+[2026-05-20 15:51:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:51:00] - Executing matrix...
+[2026-05-20 15:51:02] 📊 M1 EVAL - Close: 4522.01 | Bias: ↗️ GREEN | Vib: -0.3447
+[2026-05-20 15:52:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:52:00] - Executing matrix...
+[2026-05-20 15:52:03] 📊 M1 EVAL - Close: 4526.49 | Bias: ↗️ GREEN | Vib: -0.3933
+[2026-05-20 15:52:03] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 15:52:04] ✅ EXECUTED: Ticket #1932358724 loaded at 4526.16.
+[2026-05-20 15:52:16] 🔄 GREEN SECURITY ACTIVATED: Ticket #1932358724 locked green at 4526.26 🟢
+[2026-05-20 15:52:16] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 15:53:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:53:00] - Executing matrix...
+[2026-05-20 15:53:04] 📊 M1 EVAL - Close: 4526.62 | Bias: ↗️ GREEN | Vib: -0.3996
+[2026-05-20 15:54:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:54:00] - Executing matrix...
+[2026-05-20 15:54:04] 📊 M1 EVAL - Close: 4527.12 | Bias: ↗️ GREEN | Vib: -0.1215
+[2026-05-20 15:55:08] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:55:00] - Executing matrix...
+[2026-05-20 15:55:08] 📊 M1 EVAL - Close: 4528.94 | Bias: ↗️ GREEN | Vib: 0.0519
+[2026-05-20 15:56:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:56:00] - Executing matrix...
+[2026-05-20 15:56:03] 📊 M1 EVAL - Close: 4535.25 | Bias: ↗️ GREEN | Vib: -0.0700
+[2026-05-20 15:56:03] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 15:56:04] ✅ EXECUTED: Ticket #1932399339 loaded at 4534.83.
+[2026-05-20 15:56:07] 🔄 GREEN SECURITY ACTIVATED: Ticket #1932399339 locked green at 4534.93 🟢
+[2026-05-20 15:56:31] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 15:57:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:57:00] - Executing matrix...
+[2026-05-20 15:57:04] 📊 M1 EVAL - Close: 4533.25 | Bias: ↗️ GREEN | Vib: -0.1709
+[2026-05-20 15:58:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:58:00] - Executing matrix...
+[2026-05-20 15:58:03] 📊 M1 EVAL - Close: 4534.29 | Bias: ↗️ GREEN | Vib: -0.0873
+[2026-05-20 15:59:48] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:00:00] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 16:00:00] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:00:00] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 16:00:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:58:00] - Executing matrix...
+[2026-05-20 16:00:01] 📊 M1 EVAL - Close: 4533.42 | Bias: ↗️ GREEN | Vib: -0.1692
+[2026-05-20 16:00:07] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 17:59:00] - Executing matrix...
+[2026-05-20 16:00:07] 📊 M1 EVAL - Close: 4531.39 | Bias: ↗️ GREEN | Vib: -0.0410
+[2026-05-20 16:00:10] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:00:00] - Executing matrix...
+[2026-05-20 16:00:10] 📊 M1 EVAL - Close: 4532.65 | Bias: ↗️ GREEN | Vib: 0.0771
+[2026-05-20 16:01:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:01:00] - Executing matrix...
+[2026-05-20 16:01:02] 📊 M1 EVAL - Close: 4533.36 | Bias: ↗️ GREEN | Vib: 0.2342
+[2026-05-20 16:01:02] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 16:01:03] ✅ EXECUTED: Ticket #1932434034 loaded at 4533.50.
+[2026-05-20 16:01:18] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 16:02:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:02:00] - Executing matrix...
+[2026-05-20 16:02:03] 📊 M1 EVAL - Close: 4532.87 | Bias: ↗️ GREEN | Vib: 0.1209
+[2026-05-20 16:03:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:03:00] - Executing matrix...
+[2026-05-20 16:03:02] 📊 M1 EVAL - Close: 4530.89 | Bias: ↗️ GREEN | Vib: -0.1034
+[2026-05-20 16:03:19] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:03:22] 📞 SYSTEM INITIATION: Running M1 ultra-fast core engine execution loop for [XAUUSD]...
+[2026-05-20 16:03:22] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:03:22] 🛰️ SCANNERS ENGAGED: Tracking metrics on M1 candle updates...
+[2026-05-20 16:03:23] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:03:00] - Executing matrix...
+[2026-05-20 16:03:23] 📊 M1 EVAL - Close: 4531.68 | Bias: ↗️ GREEN | Vib: -0.0870
+[2026-05-20 16:04:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:04:00] - Executing matrix...
+[2026-05-20 16:04:03] 📊 M1 EVAL - Close: 4531.11 | Bias: ↗️ GREEN | Vib: 0.0221
+[2026-05-20 16:05:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:05:00] - Executing matrix...
+[2026-05-20 16:05:04] 📊 M1 EVAL - Close: 4530.21 | Bias: ↗️ GREEN | Vib: 0.2409
+[2026-05-20 16:06:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:06:00] - Executing matrix...
+[2026-05-20 16:06:03] 📊 M1 EVAL - Close: 4529.39 | Bias: ↗️ GREEN | Vib: 0.3092
+[2026-05-20 16:07:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:07:00] - Executing matrix...
+[2026-05-20 16:07:04] 📊 M1 EVAL - Close: 4528.03 | Bias: ↗️ GREEN | Vib: 0.8717
+[2026-05-20 16:08:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:08:00] - Executing matrix...
+[2026-05-20 16:08:03] 📊 M1 EVAL - Close: 4525.21 | Bias: ↗️ GREEN | Vib: 0.8558
+[2026-05-20 16:09:33] 📞 SYSTEM INITIATION: Running H1 macro-core engine execution loop for [XAUUSD]...
+[2026-05-20 16:09:36] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:09:36] 🛰️ SCANNERS ENGAGED: Tracking metrics on H1 candle updates...
+[2026-05-20 16:09:37] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 18:00:00] - Executing matrix...
+[2026-05-20 16:09:37] 📊 H1 EVAL - Close: 4525.27 | Bias: ↗️ GREEN | Vib: 4.5385
+[2026-05-20 16:09:37] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 16:09:38] ✅ EXECUTED: Ticket #1932484384 loaded at 4525.70.
+[2026-05-20 16:09:40] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:09:00] - Executing matrix...
+[2026-05-20 16:09:40] 📊 M1 EVAL - Close: 4525.51 | Bias: ↗️ GREEN | Vib: 0.8616
+[2026-05-20 16:10:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:10:00] - Executing matrix...
+[2026-05-20 16:10:03] 📊 M1 EVAL - Close: 4526.63 | Bias: ↗️ GREEN | Vib: 0.7168
+[2026-05-20 16:11:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:11:00] - Executing matrix...
+[2026-05-20 16:11:03] 📊 M1 EVAL - Close: 4523.55 | Bias: ↗️ GREEN | Vib: 1.6419
+[2026-05-20 16:12:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:12:00] - Executing matrix...
+[2026-05-20 16:12:02] 📊 M1 EVAL - Close: 4525.57 | Bias: ↗️ GREEN | Vib: 1.3463
+[2026-05-20 16:13:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:13:00] - Executing matrix...
+[2026-05-20 16:13:03] 📊 M1 EVAL - Close: 4524.28 | Bias: ↗️ GREEN | Vib: 1.3127
+[2026-05-20 16:13:22] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:13:39] 📞 SYSTEM INITIATION: Running H1 macro-core engine execution loop for [XAUUSD]...
+[2026-05-20 16:13:39] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:13:39] 🛰️ SCANNERS ENGAGED: Tracking metrics on H1 candle updates...
+[2026-05-20 16:13:40] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 18:00:00] - Executing matrix...
+[2026-05-20 16:13:40] 📊 H1 EVAL - Close: 4523.92 | Bias: ↗️ GREEN | Vib: 4.4866
+[2026-05-20 16:13:40] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 16:13:41] ✅ EXECUTED: Ticket #1932498458 loaded at 4524.55.
+[2026-05-20 16:14:06] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:14:00] - Executing matrix...
+[2026-05-20 16:14:06] 📊 M1 EVAL - Close: 4525.89 | Bias: ↘️ RED | Vib: 1.3594
+[2026-05-20 16:14:09] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 16:15:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:15:00] - Executing matrix...
+[2026-05-20 16:15:04] 📊 M1 EVAL - Close: 4525.17 | Bias: ↘️ RED | Vib: -0.9666
+[2026-05-20 16:16:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:16:00] - Executing matrix...
+[2026-05-20 16:16:03] 📊 M1 EVAL - Close: 4546.48 | Bias: ↗️ GREEN | Vib: 11.8472
+[2026-05-20 16:18:09] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:17:00] - Executing matrix...
+[2026-05-20 16:18:09] 📊 M1 EVAL - Close: 4551.71 | Bias: ↗️ GREEN | Vib: 9.3889
+[2026-05-20 16:19:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:18:00] - Executing matrix...
+[2026-05-20 16:19:02] 📊 M1 EVAL - Close: 4540.71 | Bias: ↗️ GREEN | Vib: 6.6497
+[2026-05-20 16:19:29] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:19:00] - Executing matrix...
+[2026-05-20 16:19:29] 📊 M1 EVAL - Close: 4540.28 | Bias: ↗️ GREEN | Vib: 6.6341
+[2026-05-20 16:20:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:20:00] - Executing matrix...
+[2026-05-20 16:20:04] 📊 M1 EVAL - Close: 4543.14 | Bias: ↗️ GREEN | Vib: 6.5799
+[2026-05-20 16:21:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:21:00] - Executing matrix...
+[2026-05-20 16:21:03] 📊 M1 EVAL - Close: 4543.36 | Bias: ↗️ GREEN | Vib: 6.5473
+[2026-05-20 16:21:48] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:21:59] 📞 SYSTEM INITIATION: Running H1 macro-core engine execution loop for [XAUUSD]...
+[2026-05-20 16:22:34] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:22:34] 🛰️ SCANNERS ENGAGED: Tracking metrics on H1 candle updates...
+[2026-05-20 16:22:34] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 18:00:00] - Executing matrix...
+[2026-05-20 16:22:34] 📊 H1 EVAL - Close: 4540.51 | Bias: ↗️ GREEN | Vib: 4.2273
+[2026-05-20 16:22:34] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 16:22:52] ✅ EXECUTED: Ticket #1932620258 loaded at 4541.58.
+[2026-05-20 16:22:53] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:22:00] - Executing matrix...
+[2026-05-20 16:22:53] 📊 M1 EVAL - Close: 4541.50 | Bias: ↗️ GREEN | Vib: 6.3911
+[2026-05-20 16:25:56] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:25:00] - Executing matrix...
+[2026-05-20 16:25:56] 📊 M1 EVAL - Close: 4533.42 | Bias: ↗️ GREEN | Vib: 6.2505
+[2026-05-20 16:26:08] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:26:00] - Executing matrix...
+[2026-05-20 16:26:08] 📊 M1 EVAL - Close: 4533.67 | Bias: ↗️ GREEN | Vib: 6.3192
+[2026-05-20 16:27:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:27:00] - Executing matrix...
+[2026-05-20 16:27:03] 📊 M1 EVAL - Close: 4531.29 | Bias: ↗️ GREEN | Vib: 6.1883
+[2026-05-20 16:28:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:28:00] - Executing matrix...
+[2026-05-20 16:28:02] 📊 M1 EVAL - Close: 4530.86 | Bias: ↗️ GREEN | Vib: 6.2390
+[2026-05-20 16:29:35] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:29:39] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:29:00] - Executing matrix...
+[2026-05-20 16:29:39] 📊 M1 EVAL - Close: 4530.10 | Bias: ↗️ GREEN | Vib: 6.3617
+[2026-05-20 16:29:47] 📞 SYSTEM INITIATION: Running H1 macro-core engine execution loop for [XAUUSD]...
+[2026-05-20 16:29:47] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:29:47] 🛰️ SCANNERS ENGAGED: Tracking metrics on H1 candle updates...
+[2026-05-20 16:29:48] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 18:00:00] - Executing matrix...
+[2026-05-20 16:29:48] 📊 H1 EVAL - Close: 4529.44 | Bias: ↗️ GREEN | Vib: 4.6229
+[2026-05-20 16:29:48] 💥 CONFLUENCE VALIDATED: Dispatching BUY order...
+[2026-05-20 16:29:48] ✅ EXECUTED: Ticket #1932664668 loaded at 4529.72.
+[2026-05-20 16:30:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:30:00] - Executing matrix...
+[2026-05-20 16:30:03] 📊 M1 EVAL - Close: 4529.30 | Bias: ↗️ GREEN | Vib: 6.4173
+[2026-05-20 16:30:15] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 16:30:24] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:31:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:31:00] - Executing matrix...
+[2026-05-20 16:31:04] 📊 M1 EVAL - Close: 4530.25 | Bias: ↗️ GREEN | Vib: 6.4817
+[2026-05-20 16:31:43] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 16:31:43] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:31:43] 🛰️ SCANNERS ENGAGED: Tracking metrics with zero-duplicate safety...
+[2026-05-20 16:31:43] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 18:00:00] - Scanning Matrix...
+[2026-05-20 16:31:43] 📊 H1 EVAL - Close: 4531.30 | Bias: ↗️ GREEN
+[2026-05-20 16:31:43] 💥 CONFLUENCE VALIDATED: Dispatching single BUY order...
+[2026-05-20 16:31:44] ✅ EXECUTED: Ticket #1932678647 loaded. Tracking active.
+[2026-05-20 16:31:52] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 16:32:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:32:00] - Executing matrix...
+[2026-05-20 16:32:04] 📊 M1 EVAL - Close: 4531.34 | Bias: ↗️ GREEN | Vib: 6.4195
+[2026-05-20 16:32:05] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:33:09] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:33:00] - Executing matrix...
+[2026-05-20 16:33:09] 📊 M1 EVAL - Close: 4532.70 | Bias: ↗️ GREEN | Vib: 6.4802
+[2026-05-20 16:34:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:34:00] - Executing matrix...
+[2026-05-20 16:34:02] 📊 M1 EVAL - Close: 4534.78 | Bias: ↗️ GREEN | Vib: 6.2934
+[2026-05-20 16:34:08] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 16:34:08] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:34:08] 🛰️ HIJACK SUCCESS: Automatically tracking existing open Ticket #1932620258 (BUY) at 4541.58
+[2026-05-20 16:35:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:35:00] - Executing matrix...
+[2026-05-20 16:35:03] 📊 M1 EVAL - Close: 4534.67 | Bias: ↘️ RED | Vib: 3.5067
+[2026-05-20 16:36:05] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:36:00] - Executing matrix...
+[2026-05-20 16:36:05] 📊 M1 EVAL - Close: 4536.11 | Bias: ↘️ RED | Vib: 5.3090
+[2026-05-20 16:37:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:37:00] - Executing matrix...
+[2026-05-20 16:37:03] 📊 M1 EVAL - Close: 4537.17 | Bias: ↘️ RED | Vib: -0.5484
+[2026-05-20 16:38:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:38:00] - Executing matrix...
+[2026-05-20 16:38:03] 📊 M1 EVAL - Close: 4534.89 | Bias: ↘️ RED | Vib: -0.8994
+[2026-05-20 16:39:18] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:39:00] - Executing matrix...
+[2026-05-20 16:39:18] 📊 M1 EVAL - Close: 4537.58 | Bias: ↘️ RED | Vib: -0.8572
+[2026-05-20 16:39:31] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:39:41] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 16:39:41] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 16:39:41] 🛰️ HIJACK SUCCESS: Tracking existing open Ticket #1932620258 (BUY) at 4541.58
+[2026-05-20 16:39:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.07 | 🔴 LOSS: -35.10 Pips (-35.10 Cents)
+[2026-05-20 16:39:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.91 | 🔴 LOSS: -36.70 Pips (-36.70 Cents)
+[2026-05-20 16:39:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.89 | 🔴 LOSS: -36.90 Pips (-36.90 Cents)
+[2026-05-20 16:39:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.93 | 🔴 LOSS: -36.50 Pips (-36.50 Cents)
+[2026-05-20 16:39:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.71 | 🔴 LOSS: -38.70 Pips (-38.70 Cents)
+[2026-05-20 16:39:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.88 | 🔴 LOSS: -37.00 Pips (-37.00 Cents)
+[2026-05-20 16:39:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.88 | 🔴 LOSS: -37.00 Pips (-37.00 Cents)
+[2026-05-20 16:39:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.88 | 🔴 LOSS: -37.00 Pips (-37.00 Cents)
+[2026-05-20 16:39:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.88 | 🔴 LOSS: -37.00 Pips (-37.00 Cents)
+[2026-05-20 16:39:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.88 | 🔴 LOSS: -37.00 Pips (-37.00 Cents)
+[2026-05-20 16:39:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.64 | 🔴 LOSS: -39.40 Pips (-39.40 Cents)
+[2026-05-20 16:39:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.77 | 🔴 LOSS: -38.10 Pips (-38.10 Cents)
+[2026-05-20 16:40:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.75 | 🔴 LOSS: -38.30 Pips (-38.30 Cents)
+[2026-05-20 16:40:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.09 | 🔴 LOSS: -34.90 Pips (-34.90 Cents)
+[2026-05-20 16:40:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:40:00] - Executing matrix...
+[2026-05-20 16:40:03] 📊 M1 EVAL - Close: 4538.09 | Bias: ↘️ RED | Vib: -0.8547
+[2026-05-20 16:40:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.23 | 🔴 LOSS: -33.50 Pips (-33.50 Cents)
+[2026-05-20 16:40:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4539.04 | 🔴 LOSS: -25.40 Pips (-25.40 Cents)
+[2026-05-20 16:40:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4539.37 | 🔴 LOSS: -22.10 Pips (-22.10 Cents)
+[2026-05-20 16:40:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4539.05 | 🔴 LOSS: -25.30 Pips (-25.30 Cents)
+[2026-05-20 16:40:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.94 | 🔴 LOSS: -26.40 Pips (-26.40 Cents)
+[2026-05-20 16:40:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.81 | 🔴 LOSS: -27.70 Pips (-27.70 Cents)
+[2026-05-20 16:40:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.50 | 🔴 LOSS: -30.80 Pips (-30.80 Cents)
+[2026-05-20 16:40:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.77 | 🔴 LOSS: -28.10 Pips (-28.10 Cents)
+[2026-05-20 16:40:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.77 | 🔴 LOSS: -28.10 Pips (-28.10 Cents)
+[2026-05-20 16:40:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.52 | 🔴 LOSS: -30.60 Pips (-30.60 Cents)
+[2026-05-20 16:40:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.70 | 🔴 LOSS: -28.80 Pips (-28.80 Cents)
+[2026-05-20 16:40:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.55 | 🔴 LOSS: -30.30 Pips (-30.30 Cents)
+[2026-05-20 16:40:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.74 | 🔴 LOSS: -28.40 Pips (-28.40 Cents)
+[2026-05-20 16:40:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.22 | 🔴 LOSS: -33.60 Pips (-33.60 Cents)
+[2026-05-20 16:40:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.30 | 🔴 LOSS: -32.80 Pips (-32.80 Cents)
+[2026-05-20 16:40:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.21 | 🔴 LOSS: -33.70 Pips (-33.70 Cents)
+[2026-05-20 16:40:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.10 | 🔴 LOSS: -34.80 Pips (-34.80 Cents)
+[2026-05-20 16:40:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.93 | 🔴 LOSS: -36.50 Pips (-36.50 Cents)
+[2026-05-20 16:40:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.70 | 🔴 LOSS: -38.80 Pips (-38.80 Cents)
+[2026-05-20 16:40:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.48 | 🔴 LOSS: -41.00 Pips (-41.00 Cents)
+[2026-05-20 16:40:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.48 | 🔴 LOSS: -41.00 Pips (-41.00 Cents)
+[2026-05-20 16:40:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.60 | 🔴 LOSS: -39.80 Pips (-39.80 Cents)
+[2026-05-20 16:40:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.15 | 🔴 LOSS: -44.30 Pips (-44.30 Cents)
+[2026-05-20 16:40:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.18 | 🔴 LOSS: -54.00 Pips (-54.00 Cents)
+[2026-05-20 16:40:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.77 | 🔴 LOSS: -58.10 Pips (-58.10 Cents)
+[2026-05-20 16:40:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.13 | 🔴 LOSS: -54.50 Pips (-54.50 Cents)
+[2026-05-20 16:40:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.21 | 🔴 LOSS: -53.70 Pips (-53.70 Cents)
+[2026-05-20 16:40:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.96 | 🔴 LOSS: -56.20 Pips (-56.20 Cents)
+[2026-05-20 16:40:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.94 | 🔴 LOSS: -56.40 Pips (-56.40 Cents)
+[2026-05-20 16:40:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.96 | 🔴 LOSS: -56.20 Pips (-56.20 Cents)
+[2026-05-20 16:40:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.05 | 🔴 LOSS: -55.30 Pips (-55.30 Cents)
+[2026-05-20 16:40:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.83 | 🔴 LOSS: -57.50 Pips (-57.50 Cents)
+[2026-05-20 16:40:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.06 | 🔴 LOSS: -55.20 Pips (-55.20 Cents)
+[2026-05-20 16:40:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.39 | 🔴 LOSS: -51.90 Pips (-51.90 Cents)
+[2026-05-20 16:40:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.52 | 🔴 LOSS: -50.60 Pips (-50.60 Cents)
+[2026-05-20 16:40:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.38 | 🔴 LOSS: -52.00 Pips (-52.00 Cents)
+[2026-05-20 16:40:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.12 | 🔴 LOSS: -54.60 Pips (-54.60 Cents)
+[2026-05-20 16:41:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.10 | 🔴 LOSS: -54.80 Pips (-54.80 Cents)
+[2026-05-20 16:41:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.23 | 🔴 LOSS: -53.50 Pips (-53.50 Cents)
+[2026-05-20 16:41:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.11 | 🔴 LOSS: -54.70 Pips (-54.70 Cents)
+[2026-05-20 16:41:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:41:00] - Executing matrix...
+[2026-05-20 16:41:04] 📊 M1 EVAL - Close: 4536.21 | Bias: ↘️ RED | Vib: -0.6451
+[2026-05-20 16:41:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.53 | 🔴 LOSS: -50.50 Pips (-50.50 Cents)
+[2026-05-20 16:41:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:41:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.46 | 🔴 LOSS: -51.20 Pips (-51.20 Cents)
+[2026-05-20 16:41:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.41 | 🔴 LOSS: -51.70 Pips (-51.70 Cents)
+[2026-05-20 16:41:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:41:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.18 | 🔴 LOSS: -54.00 Pips (-54.00 Cents)
+[2026-05-20 16:41:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.89 | 🔴 LOSS: -56.90 Pips (-56.90 Cents)
+[2026-05-20 16:41:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.58 | 🔴 LOSS: -60.00 Pips (-60.00 Cents)
+[2026-05-20 16:41:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.41 | 🔴 LOSS: -61.70 Pips (-61.70 Cents)
+[2026-05-20 16:41:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.50 | 🔴 LOSS: -60.80 Pips (-60.80 Cents)
+[2026-05-20 16:41:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.86 | 🔴 LOSS: -57.20 Pips (-57.20 Cents)
+[2026-05-20 16:41:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.90 | 🔴 LOSS: -56.80 Pips (-56.80 Cents)
+[2026-05-20 16:41:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.97 | 🔴 LOSS: -56.10 Pips (-56.10 Cents)
+[2026-05-20 16:41:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.12 | 🔴 LOSS: -54.60 Pips (-54.60 Cents)
+[2026-05-20 16:41:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.15 | 🔴 LOSS: -54.30 Pips (-54.30 Cents)
+[2026-05-20 16:41:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.90 | 🔴 LOSS: -56.80 Pips (-56.80 Cents)
+[2026-05-20 16:41:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.96 | 🔴 LOSS: -56.20 Pips (-56.20 Cents)
+[2026-05-20 16:41:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.76 | 🔴 LOSS: -58.20 Pips (-58.20 Cents)
+[2026-05-20 16:41:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.69 | 🔴 LOSS: -58.90 Pips (-58.90 Cents)
+[2026-05-20 16:41:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.66 | 🔴 LOSS: -59.20 Pips (-59.20 Cents)
+[2026-05-20 16:41:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.68 | 🔴 LOSS: -59.00 Pips (-59.00 Cents)
+[2026-05-20 16:41:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.86 | 🔴 LOSS: -57.20 Pips (-57.20 Cents)
+[2026-05-20 16:41:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.97 | 🔴 LOSS: -56.10 Pips (-56.10 Cents)
+[2026-05-20 16:41:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.58 | 🔴 LOSS: -60.00 Pips (-60.00 Cents)
+[2026-05-20 16:41:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.26 | 🔴 LOSS: -63.20 Pips (-63.20 Cents)
+[2026-05-20 16:41:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.50 | 🔴 LOSS: -60.80 Pips (-60.80 Cents)
+[2026-05-20 16:41:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.77 | 🔴 LOSS: -58.10 Pips (-58.10 Cents)
+[2026-05-20 16:41:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.58 | 🔴 LOSS: -50.00 Pips (-50.00 Cents)
+[2026-05-20 16:41:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.49 | 🔴 LOSS: -50.90 Pips (-50.90 Cents)
+[2026-05-20 16:41:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.49 | 🔴 LOSS: -50.90 Pips (-50.90 Cents)
+[2026-05-20 16:41:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.86 | 🔴 LOSS: -47.20 Pips (-47.20 Cents)
+[2026-05-20 16:41:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.86 | 🔴 LOSS: -47.20 Pips (-47.20 Cents)
+[2026-05-20 16:41:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:41:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.74 | 🔴 LOSS: -48.40 Pips (-48.40 Cents)
+[2026-05-20 16:41:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.68 | 🔴 LOSS: -39.00 Pips (-39.00 Cents)
+[2026-05-20 16:42:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.18 | 🔴 LOSS: -34.00 Pips (-34.00 Cents)
+[2026-05-20 16:42:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4538.30 | 🔴 LOSS: -32.80 Pips (-32.80 Cents)
+[2026-05-20 16:42:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:42:00] - Executing matrix...
+[2026-05-20 16:42:03] 📊 M1 EVAL - Close: 4538.30 | Bias: ↗️ GREEN | Vib: -0.7094
+[2026-05-20 16:42:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.08 | 🔴 LOSS: -45.00 Pips (-45.00 Cents)
+[2026-05-20 16:42:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.32 | 🔴 LOSS: -42.60 Pips (-42.60 Cents)
+[2026-05-20 16:42:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.03 | 🔴 LOSS: -45.50 Pips (-45.50 Cents)
+[2026-05-20 16:42:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.47 | 🔴 LOSS: -41.10 Pips (-41.10 Cents)
+[2026-05-20 16:42:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.54 | 🔴 LOSS: -40.40 Pips (-40.40 Cents)
+[2026-05-20 16:42:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.82 | 🔴 LOSS: -37.60 Pips (-37.60 Cents)
+[2026-05-20 16:42:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.85 | 🔴 LOSS: -37.30 Pips (-37.30 Cents)
+[2026-05-20 16:42:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.79 | 🔴 LOSS: -37.90 Pips (-37.90 Cents)
+[2026-05-20 16:42:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.83 | 🔴 LOSS: -37.50 Pips (-37.50 Cents)
+[2026-05-20 16:42:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.26 | 🔴 LOSS: -43.20 Pips (-43.20 Cents)
+[2026-05-20 16:42:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.88 | 🔴 LOSS: -47.00 Pips (-47.00 Cents)
+[2026-05-20 16:42:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.61 | 🔴 LOSS: -49.70 Pips (-49.70 Cents)
+[2026-05-20 16:42:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:42:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:42:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.63 | 🔴 LOSS: -49.50 Pips (-49.50 Cents)
+[2026-05-20 16:42:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.67 | 🔴 LOSS: -49.10 Pips (-49.10 Cents)
+[2026-05-20 16:42:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.67 | 🔴 LOSS: -49.10 Pips (-49.10 Cents)
+[2026-05-20 16:42:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.62 | 🔴 LOSS: -49.60 Pips (-49.60 Cents)
+[2026-05-20 16:42:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.65 | 🔴 LOSS: -49.30 Pips (-49.30 Cents)
+[2026-05-20 16:42:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.69 | 🔴 LOSS: -48.90 Pips (-48.90 Cents)
+[2026-05-20 16:42:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.85 | 🔴 LOSS: -47.30 Pips (-47.30 Cents)
+[2026-05-20 16:42:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.22 | 🔴 LOSS: -43.60 Pips (-43.60 Cents)
+[2026-05-20 16:42:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.38 | 🔴 LOSS: -42.00 Pips (-42.00 Cents)
+[2026-05-20 16:42:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.35 | 🔴 LOSS: -42.30 Pips (-42.30 Cents)
+[2026-05-20 16:42:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.20 | 🔴 LOSS: -43.80 Pips (-43.80 Cents)
+[2026-05-20 16:42:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.21 | 🔴 LOSS: -43.70 Pips (-43.70 Cents)
+[2026-05-20 16:42:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:42:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.19 | 🔴 LOSS: -43.90 Pips (-43.90 Cents)
+[2026-05-20 16:42:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.36 | 🔴 LOSS: -42.20 Pips (-42.20 Cents)
+[2026-05-20 16:42:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.09 | 🔴 LOSS: -44.90 Pips (-44.90 Cents)
+[2026-05-20 16:42:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.27 | 🔴 LOSS: -43.10 Pips (-43.10 Cents)
+[2026-05-20 16:42:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.19 | 🔴 LOSS: -43.90 Pips (-43.90 Cents)
+[2026-05-20 16:42:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.00 | 🔴 LOSS: -45.80 Pips (-45.80 Cents)
+[2026-05-20 16:42:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.08 | 🔴 LOSS: -45.00 Pips (-45.00 Cents)
+[2026-05-20 16:42:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:42:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.95 | 🔴 LOSS: -46.30 Pips (-46.30 Cents)
+[2026-05-20 16:43:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.20 | 🔴 LOSS: -43.80 Pips (-43.80 Cents)
+[2026-05-20 16:43:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.17 | 🔴 LOSS: -44.10 Pips (-44.10 Cents)
+[2026-05-20 16:43:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.07 | 🔴 LOSS: -45.10 Pips (-45.10 Cents)
+[2026-05-20 16:43:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:43:00] - Executing matrix...
+[2026-05-20 16:43:04] 📊 M1 EVAL - Close: 4536.70 | Bias: ↘️ RED | Vib: -0.8746
+[2026-05-20 16:43:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.07 | 🔴 LOSS: -45.10 Pips (-45.10 Cents)
+[2026-05-20 16:43:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.10 | 🔴 LOSS: -44.80 Pips (-44.80 Cents)
+[2026-05-20 16:43:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.13 | 🔴 LOSS: -44.50 Pips (-44.50 Cents)
+[2026-05-20 16:43:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.99 | 🔴 LOSS: -55.90 Pips (-55.90 Cents)
+[2026-05-20 16:43:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.56 | 🔴 LOSS: -50.20 Pips (-50.20 Cents)
+[2026-05-20 16:43:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.58 | 🔴 LOSS: -50.00 Pips (-50.00 Cents)
+[2026-05-20 16:43:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:43:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.81 | 🔴 LOSS: -47.70 Pips (-47.70 Cents)
+[2026-05-20 16:43:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.67 | 🔴 LOSS: -49.10 Pips (-49.10 Cents)
+[2026-05-20 16:43:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.76 | 🔴 LOSS: -48.20 Pips (-48.20 Cents)
+[2026-05-20 16:43:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.79 | 🔴 LOSS: -47.90 Pips (-47.90 Cents)
+[2026-05-20 16:43:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:43:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.57 | 🔴 LOSS: -50.10 Pips (-50.10 Cents)
+[2026-05-20 16:43:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.53 | 🔴 LOSS: -50.50 Pips (-50.50 Cents)
+[2026-05-20 16:43:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.79 | 🔴 LOSS: -47.90 Pips (-47.90 Cents)
+[2026-05-20 16:43:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.80 | 🔴 LOSS: -47.80 Pips (-47.80 Cents)
+[2026-05-20 16:43:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.51 | 🔴 LOSS: -50.70 Pips (-50.70 Cents)
+[2026-05-20 16:43:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.67 | 🔴 LOSS: -49.10 Pips (-49.10 Cents)
+[2026-05-20 16:43:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.41 | 🔴 LOSS: -61.70 Pips (-61.70 Cents)
+[2026-05-20 16:43:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.55 | 🔴 LOSS: -60.30 Pips (-60.30 Cents)
+[2026-05-20 16:43:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.55 | 🔴 LOSS: -60.30 Pips (-60.30 Cents)
+[2026-05-20 16:43:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.39 | 🔴 LOSS: -61.90 Pips (-61.90 Cents)
+[2026-05-20 16:43:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.43 | 🔴 LOSS: -61.50 Pips (-61.50 Cents)
+[2026-05-20 16:43:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.39 | 🔴 LOSS: -61.90 Pips (-61.90 Cents)
+[2026-05-20 16:43:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.39 | 🔴 LOSS: -61.90 Pips (-61.90 Cents)
+[2026-05-20 16:43:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.39 | 🔴 LOSS: -61.90 Pips (-61.90 Cents)
+[2026-05-20 16:43:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.41 | 🔴 LOSS: -61.70 Pips (-61.70 Cents)
+[2026-05-20 16:43:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.52 | 🔴 LOSS: -60.60 Pips (-60.60 Cents)
+[2026-05-20 16:43:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.03 | 🔴 LOSS: -65.50 Pips (-65.50 Cents)
+[2026-05-20 16:43:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.85 | 🔴 LOSS: -67.30 Pips (-67.30 Cents)
+[2026-05-20 16:43:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.89 | 🔴 LOSS: -66.90 Pips (-66.90 Cents)
+[2026-05-20 16:43:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.29 | 🔴 LOSS: -62.90 Pips (-62.90 Cents)
+[2026-05-20 16:43:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.57 | 🔴 LOSS: -60.10 Pips (-60.10 Cents)
+[2026-05-20 16:43:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.95 | 🔴 LOSS: -56.30 Pips (-56.30 Cents)
+[2026-05-20 16:43:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.64 | 🔴 LOSS: -59.40 Pips (-59.40 Cents)
+[2026-05-20 16:43:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.63 | 🔴 LOSS: -59.50 Pips (-59.50 Cents)
+[2026-05-20 16:44:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.63 | 🔴 LOSS: -59.50 Pips (-59.50 Cents)
+[2026-05-20 16:44:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.81 | 🔴 LOSS: -67.70 Pips (-67.70 Cents)
+[2026-05-20 16:44:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.75 | 🔴 LOSS: -68.30 Pips (-68.30 Cents)
+[2026-05-20 16:44:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:44:00] - Executing matrix...
+[2026-05-20 16:44:04] 📊 M1 EVAL - Close: 4534.87 | Bias: ↘️ RED | Vib: -0.8553
+[2026-05-20 16:44:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.76 | 🔴 LOSS: -68.20 Pips (-68.20 Cents)
+[2026-05-20 16:44:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.42 | 🔴 LOSS: -61.60 Pips (-61.60 Cents)
+[2026-05-20 16:44:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.54 | 🔴 LOSS: -60.40 Pips (-60.40 Cents)
+[2026-05-20 16:44:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.39 | 🔴 LOSS: -61.90 Pips (-61.90 Cents)
+[2026-05-20 16:44:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.36 | 🔴 LOSS: -62.20 Pips (-62.20 Cents)
+[2026-05-20 16:44:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.37 | 🔴 LOSS: -62.10 Pips (-62.10 Cents)
+[2026-05-20 16:44:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.24 | 🔴 LOSS: -63.40 Pips (-63.40 Cents)
+[2026-05-20 16:44:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.02 | 🔴 LOSS: -65.60 Pips (-65.60 Cents)
+[2026-05-20 16:44:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.08 | 🔴 LOSS: -65.00 Pips (-65.00 Cents)
+[2026-05-20 16:44:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.04 | 🔴 LOSS: -65.40 Pips (-65.40 Cents)
+[2026-05-20 16:44:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.47 | 🔴 LOSS: -61.10 Pips (-61.10 Cents)
+[2026-05-20 16:44:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.63 | 🔴 LOSS: -59.50 Pips (-59.50 Cents)
+[2026-05-20 16:44:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.69 | 🔴 LOSS: -58.90 Pips (-58.90 Cents)
+[2026-05-20 16:44:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.54 | 🔴 LOSS: -60.40 Pips (-60.40 Cents)
+[2026-05-20 16:44:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.31 | 🔴 LOSS: -62.70 Pips (-62.70 Cents)
+[2026-05-20 16:44:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.51 | 🔴 LOSS: -60.70 Pips (-60.70 Cents)
+[2026-05-20 16:44:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.91 | 🔴 LOSS: -56.70 Pips (-56.70 Cents)
+[2026-05-20 16:44:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.76 | 🔴 LOSS: -58.20 Pips (-58.20 Cents)
+[2026-05-20 16:44:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.97 | 🔴 LOSS: -56.10 Pips (-56.10 Cents)
+[2026-05-20 16:44:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.18 | 🔴 LOSS: -54.00 Pips (-54.00 Cents)
+[2026-05-20 16:44:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.18 | 🔴 LOSS: -54.00 Pips (-54.00 Cents)
+[2026-05-20 16:44:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.45 | 🔴 LOSS: -51.30 Pips (-51.30 Cents)
+[2026-05-20 16:44:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:44:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:44:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.73 | 🔴 LOSS: -48.50 Pips (-48.50 Cents)
+[2026-05-20 16:44:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:44:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:44:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.78 | 🔴 LOSS: -48.00 Pips (-48.00 Cents)
+[2026-05-20 16:44:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.67 | 🔴 LOSS: -49.10 Pips (-49.10 Cents)
+[2026-05-20 16:44:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.61 | 🔴 LOSS: -49.70 Pips (-49.70 Cents)
+[2026-05-20 16:44:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:44:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.59 | 🔴 LOSS: -49.90 Pips (-49.90 Cents)
+[2026-05-20 16:44:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.79 | 🔴 LOSS: -47.90 Pips (-47.90 Cents)
+[2026-05-20 16:44:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.76 | 🔴 LOSS: -48.20 Pips (-48.20 Cents)
+[2026-05-20 16:44:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:45:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:45:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:45:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.04 | 🔴 LOSS: -45.40 Pips (-45.40 Cents)
+[2026-05-20 16:45:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:45:00] - Executing matrix...
+[2026-05-20 16:45:04] 📊 M1 EVAL - Close: 4537.03 | Bias: ↗️ GREEN | Vib: -0.6056
+[2026-05-20 16:45:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.49 | 🔴 LOSS: -50.90 Pips (-50.90 Cents)
+[2026-05-20 16:45:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.23 | 🔴 LOSS: -53.50 Pips (-53.50 Cents)
+[2026-05-20 16:45:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.23 | 🔴 LOSS: -53.50 Pips (-53.50 Cents)
+[2026-05-20 16:45:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.21 | 🔴 LOSS: -53.70 Pips (-53.70 Cents)
+[2026-05-20 16:45:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.39 | 🔴 LOSS: -51.90 Pips (-51.90 Cents)
+[2026-05-20 16:45:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.41 | 🔴 LOSS: -61.70 Pips (-61.70 Cents)
+[2026-05-20 16:45:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.59 | 🔴 LOSS: -59.90 Pips (-59.90 Cents)
+[2026-05-20 16:45:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.49 | 🔴 LOSS: -60.90 Pips (-60.90 Cents)
+[2026-05-20 16:45:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.09 | 🔴 LOSS: -54.90 Pips (-54.90 Cents)
+[2026-05-20 16:45:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.80 | 🔴 LOSS: -57.80 Pips (-57.80 Cents)
+[2026-05-20 16:45:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.77 | 🔴 LOSS: -58.10 Pips (-58.10 Cents)
+[2026-05-20 16:45:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.75 | 🔴 LOSS: -58.30 Pips (-58.30 Cents)
+[2026-05-20 16:45:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.20 | 🔴 LOSS: -53.80 Pips (-53.80 Cents)
+[2026-05-20 16:45:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.98 | 🔴 LOSS: -56.00 Pips (-56.00 Cents)
+[2026-05-20 16:45:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.22 | 🔴 LOSS: -53.60 Pips (-53.60 Cents)
+[2026-05-20 16:45:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:45:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:45:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.28 | 🔴 LOSS: -53.00 Pips (-53.00 Cents)
+[2026-05-20 16:45:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.35 | 🔴 LOSS: -52.30 Pips (-52.30 Cents)
+[2026-05-20 16:45:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.02 | 🔴 LOSS: -55.60 Pips (-55.60 Cents)
+[2026-05-20 16:45:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.26 | 🔴 LOSS: -53.20 Pips (-53.20 Cents)
+[2026-05-20 16:45:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.40 | 🔴 LOSS: -51.80 Pips (-51.80 Cents)
+[2026-05-20 16:45:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.50 | 🔴 LOSS: -50.80 Pips (-50.80 Cents)
+[2026-05-20 16:45:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.54 | 🔴 LOSS: -50.40 Pips (-50.40 Cents)
+[2026-05-20 16:45:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.07 | 🔴 LOSS: -55.10 Pips (-55.10 Cents)
+[2026-05-20 16:45:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.14 | 🔴 LOSS: -54.40 Pips (-54.40 Cents)
+[2026-05-20 16:45:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.37 | 🔴 LOSS: -52.10 Pips (-52.10 Cents)
+[2026-05-20 16:45:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.39 | 🔴 LOSS: -51.90 Pips (-51.90 Cents)
+[2026-05-20 16:45:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.56 | 🔴 LOSS: -50.20 Pips (-50.20 Cents)
+[2026-05-20 16:45:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.29 | 🔴 LOSS: -52.90 Pips (-52.90 Cents)
+[2026-05-20 16:45:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.34 | 🔴 LOSS: -52.40 Pips (-52.40 Cents)
+[2026-05-20 16:45:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.29 | 🔴 LOSS: -52.90 Pips (-52.90 Cents)
+[2026-05-20 16:45:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.30 | 🔴 LOSS: -52.80 Pips (-52.80 Cents)
+[2026-05-20 16:45:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.78 | 🔴 LOSS: -48.00 Pips (-48.00 Cents)
+[2026-05-20 16:45:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.85 | 🔴 LOSS: -47.30 Pips (-47.30 Cents)
+[2026-05-20 16:46:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.69 | 🔴 LOSS: -48.90 Pips (-48.90 Cents)
+[2026-05-20 16:46:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:46:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.87 | 🔴 LOSS: -47.10 Pips (-47.10 Cents)
+[2026-05-20 16:46:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:46:00] - Executing matrix...
+[2026-05-20 16:46:04] 📊 M1 EVAL - Close: 4536.87 | Bias: ↗️ GREEN | Vib: -0.9693
+[2026-05-20 16:46:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.73 | 🔴 LOSS: -48.50 Pips (-48.50 Cents)
+[2026-05-20 16:46:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.53 | 🔴 LOSS: -50.50 Pips (-50.50 Cents)
+[2026-05-20 16:46:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.47 | 🔴 LOSS: -51.10 Pips (-51.10 Cents)
+[2026-05-20 16:46:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.60 | 🔴 LOSS: -49.80 Pips (-49.80 Cents)
+[2026-05-20 16:46:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.63 | 🔴 LOSS: -49.50 Pips (-49.50 Cents)
+[2026-05-20 16:46:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.17 | 🔴 LOSS: -44.10 Pips (-44.10 Cents)
+[2026-05-20 16:46:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.24 | 🔴 LOSS: -43.40 Pips (-43.40 Cents)
+[2026-05-20 16:46:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.30 | 🔴 LOSS: -42.80 Pips (-42.80 Cents)
+[2026-05-20 16:46:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.21 | 🔴 LOSS: -43.70 Pips (-43.70 Cents)
+[2026-05-20 16:46:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.00 | 🔴 LOSS: -45.80 Pips (-45.80 Cents)
+[2026-05-20 16:46:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.49 | 🔴 LOSS: -50.90 Pips (-50.90 Cents)
+[2026-05-20 16:46:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.63 | 🔴 LOSS: -49.50 Pips (-49.50 Cents)
+[2026-05-20 16:46:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.61 | 🔴 LOSS: -49.70 Pips (-49.70 Cents)
+[2026-05-20 16:46:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.59 | 🔴 LOSS: -49.90 Pips (-49.90 Cents)
+[2026-05-20 16:46:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:46:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.61 | 🔴 LOSS: -49.70 Pips (-49.70 Cents)
+[2026-05-20 16:46:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.73 | 🔴 LOSS: -48.50 Pips (-48.50 Cents)
+[2026-05-20 16:46:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.92 | 🔴 LOSS: -46.60 Pips (-46.60 Cents)
+[2026-05-20 16:46:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.20 | 🔴 LOSS: -43.80 Pips (-43.80 Cents)
+[2026-05-20 16:46:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.11 | 🔴 LOSS: -44.70 Pips (-44.70 Cents)
+[2026-05-20 16:46:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.97 | 🔴 LOSS: -46.10 Pips (-46.10 Cents)
+[2026-05-20 16:46:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:46:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:46:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.79 | 🔴 LOSS: -47.90 Pips (-47.90 Cents)
+[2026-05-20 16:46:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.48 | 🔴 LOSS: -51.00 Pips (-51.00 Cents)
+[2026-05-20 16:46:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.59 | 🔴 LOSS: -49.90 Pips (-49.90 Cents)
+[2026-05-20 16:46:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.47 | 🔴 LOSS: -51.10 Pips (-51.10 Cents)
+[2026-05-20 16:46:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.37 | 🔴 LOSS: -52.10 Pips (-52.10 Cents)
+[2026-05-20 16:46:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.41 | 🔴 LOSS: -51.70 Pips (-51.70 Cents)
+[2026-05-20 16:46:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.05 | 🔴 LOSS: -45.30 Pips (-45.30 Cents)
+[2026-05-20 16:46:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.91 | 🔴 LOSS: -46.70 Pips (-46.70 Cents)
+[2026-05-20 16:46:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.97 | 🔴 LOSS: -46.10 Pips (-46.10 Cents)
+[2026-05-20 16:46:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.80 | 🔴 LOSS: -47.80 Pips (-47.80 Cents)
+[2026-05-20 16:46:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.56 | 🔴 LOSS: -50.20 Pips (-50.20 Cents)
+[2026-05-20 16:46:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.36 | 🔴 LOSS: -52.20 Pips (-52.20 Cents)
+[2026-05-20 16:46:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.47 | 🔴 LOSS: -51.10 Pips (-51.10 Cents)
+[2026-05-20 16:47:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.44 | 🔴 LOSS: -51.40 Pips (-51.40 Cents)
+[2026-05-20 16:47:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.42 | 🔴 LOSS: -51.60 Pips (-51.60 Cents)
+[2026-05-20 16:47:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:47:00] - Executing matrix...
+[2026-05-20 16:47:03] 📊 M1 EVAL - Close: 4536.43 | Bias: ↗️ GREEN | Vib: -1.0327
+[2026-05-20 16:47:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.48 | 🔴 LOSS: -51.00 Pips (-51.00 Cents)
+[2026-05-20 16:47:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.02 | 🔴 LOSS: -55.60 Pips (-55.60 Cents)
+[2026-05-20 16:47:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.08 | 🔴 LOSS: -55.00 Pips (-55.00 Cents)
+[2026-05-20 16:47:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.45 | 🔴 LOSS: -51.30 Pips (-51.30 Cents)
+[2026-05-20 16:47:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:47:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.56 | 🔴 LOSS: -50.20 Pips (-50.20 Cents)
+[2026-05-20 16:47:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.69 | 🔴 LOSS: -48.90 Pips (-48.90 Cents)
+[2026-05-20 16:47:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.64 | 🔴 LOSS: -49.40 Pips (-49.40 Cents)
+[2026-05-20 16:47:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.62 | 🔴 LOSS: -49.60 Pips (-49.60 Cents)
+[2026-05-20 16:47:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.53 | 🔴 LOSS: -50.50 Pips (-50.50 Cents)
+[2026-05-20 16:47:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:47:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.42 | 🔴 LOSS: -51.60 Pips (-51.60 Cents)
+[2026-05-20 16:47:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:47:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:47:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.56 | 🔴 LOSS: -50.20 Pips (-50.20 Cents)
+[2026-05-20 16:47:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.60 | 🔴 LOSS: -49.80 Pips (-49.80 Cents)
+[2026-05-20 16:47:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.39 | 🔴 LOSS: -41.90 Pips (-41.90 Cents)
+[2026-05-20 16:47:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.12 | 🔴 LOSS: -44.60 Pips (-44.60 Cents)
+[2026-05-20 16:47:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.07 | 🔴 LOSS: -45.10 Pips (-45.10 Cents)
+[2026-05-20 16:47:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.99 | 🔴 LOSS: -45.90 Pips (-45.90 Cents)
+[2026-05-20 16:47:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.91 | 🔴 LOSS: -46.70 Pips (-46.70 Cents)
+[2026-05-20 16:47:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:47:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.80 | 🔴 LOSS: -47.80 Pips (-47.80 Cents)
+[2026-05-20 16:47:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.96 | 🔴 LOSS: -46.20 Pips (-46.20 Cents)
+[2026-05-20 16:47:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.89 | 🔴 LOSS: -46.90 Pips (-46.90 Cents)
+[2026-05-20 16:47:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.95 | 🔴 LOSS: -46.30 Pips (-46.30 Cents)
+[2026-05-20 16:47:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.88 | 🔴 LOSS: -47.00 Pips (-47.00 Cents)
+[2026-05-20 16:47:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.59 | 🔴 LOSS: -49.90 Pips (-49.90 Cents)
+[2026-05-20 16:47:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:47:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.70 | 🔴 LOSS: -48.80 Pips (-48.80 Cents)
+[2026-05-20 16:47:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.67 | 🔴 LOSS: -49.10 Pips (-49.10 Cents)
+[2026-05-20 16:47:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:47:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.73 | 🔴 LOSS: -48.50 Pips (-48.50 Cents)
+[2026-05-20 16:47:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.78 | 🔴 LOSS: -48.00 Pips (-48.00 Cents)
+[2026-05-20 16:47:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.78 | 🔴 LOSS: -48.00 Pips (-48.00 Cents)
+[2026-05-20 16:47:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.79 | 🔴 LOSS: -47.90 Pips (-47.90 Cents)
+[2026-05-20 16:47:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:48:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.65 | 🔴 LOSS: -49.30 Pips (-49.30 Cents)
+[2026-05-20 16:48:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.65 | 🔴 LOSS: -49.30 Pips (-49.30 Cents)
+[2026-05-20 16:48:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.11 | 🔴 LOSS: -54.70 Pips (-54.70 Cents)
+[2026-05-20 16:48:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.41 | 🔴 LOSS: -51.70 Pips (-51.70 Cents)
+[2026-05-20 16:48:05] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:48:00] - Executing matrix...
+[2026-05-20 16:48:05] 📊 M1 EVAL - Close: 4536.40 | Bias: ↗️ GREEN | Vib: -1.0206
+[2026-05-20 16:48:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.12 | 🔴 LOSS: -54.60 Pips (-54.60 Cents)
+[2026-05-20 16:48:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.03 | 🔴 LOSS: -55.50 Pips (-55.50 Cents)
+[2026-05-20 16:48:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.08 | 🔴 LOSS: -55.00 Pips (-55.00 Cents)
+[2026-05-20 16:48:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.96 | 🔴 LOSS: -56.20 Pips (-56.20 Cents)
+[2026-05-20 16:48:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.04 | 🔴 LOSS: -55.40 Pips (-55.40 Cents)
+[2026-05-20 16:48:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.09 | 🔴 LOSS: -54.90 Pips (-54.90 Cents)
+[2026-05-20 16:48:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.05 | 🔴 LOSS: -55.30 Pips (-55.30 Cents)
+[2026-05-20 16:48:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.05 | 🔴 LOSS: -55.30 Pips (-55.30 Cents)
+[2026-05-20 16:48:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.89 | 🔴 LOSS: -46.90 Pips (-46.90 Cents)
+[2026-05-20 16:48:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.11 | 🔴 LOSS: -44.70 Pips (-44.70 Cents)
+[2026-05-20 16:48:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.34 | 🔴 LOSS: -42.40 Pips (-42.40 Cents)
+[2026-05-20 16:48:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.34 | 🔴 LOSS: -42.40 Pips (-42.40 Cents)
+[2026-05-20 16:48:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.34 | 🔴 LOSS: -42.40 Pips (-42.40 Cents)
+[2026-05-20 16:48:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.34 | 🔴 LOSS: -42.40 Pips (-42.40 Cents)
+[2026-05-20 16:48:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.34 | 🔴 LOSS: -42.40 Pips (-42.40 Cents)
+[2026-05-20 16:48:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.34 | 🔴 LOSS: -42.40 Pips (-42.40 Cents)
+[2026-05-20 16:48:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.02 | 🔴 LOSS: -45.60 Pips (-45.60 Cents)
+[2026-05-20 16:48:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.90 | 🔴 LOSS: -46.80 Pips (-46.80 Cents)
+[2026-05-20 16:48:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.70 | 🔴 LOSS: -48.80 Pips (-48.80 Cents)
+[2026-05-20 16:48:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.83 | 🔴 LOSS: -47.50 Pips (-47.50 Cents)
+[2026-05-20 16:48:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.64 | 🔴 LOSS: -49.40 Pips (-49.40 Cents)
+[2026-05-20 16:48:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.78 | 🔴 LOSS: -48.00 Pips (-48.00 Cents)
+[2026-05-20 16:48:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.37 | 🔴 LOSS: -52.10 Pips (-52.10 Cents)
+[2026-05-20 16:48:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.37 | 🔴 LOSS: -52.10 Pips (-52.10 Cents)
+[2026-05-20 16:48:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.37 | 🔴 LOSS: -52.10 Pips (-52.10 Cents)
+[2026-05-20 16:48:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.37 | 🔴 LOSS: -52.10 Pips (-52.10 Cents)
+[2026-05-20 16:48:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.42 | 🔴 LOSS: -51.60 Pips (-51.60 Cents)
+[2026-05-20 16:48:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.21 | 🔴 LOSS: -53.70 Pips (-53.70 Cents)
+[2026-05-20 16:48:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.21 | 🔴 LOSS: -53.70 Pips (-53.70 Cents)
+[2026-05-20 16:48:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.34 | 🔴 LOSS: -52.40 Pips (-52.40 Cents)
+[2026-05-20 16:48:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.34 | 🔴 LOSS: -52.40 Pips (-52.40 Cents)
+[2026-05-20 16:48:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.30 | 🔴 LOSS: -52.80 Pips (-52.80 Cents)
+[2026-05-20 16:48:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.42 | 🔴 LOSS: -51.60 Pips (-51.60 Cents)
+[2026-05-20 16:48:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.42 | 🔴 LOSS: -51.60 Pips (-51.60 Cents)
+[2026-05-20 16:48:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.34 | 🔴 LOSS: -52.40 Pips (-52.40 Cents)
+[2026-05-20 16:49:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.36 | 🔴 LOSS: -52.20 Pips (-52.20 Cents)
+[2026-05-20 16:49:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.36 | 🔴 LOSS: -52.20 Pips (-52.20 Cents)
+[2026-05-20 16:49:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.12 | 🔴 LOSS: -54.60 Pips (-54.60 Cents)
+[2026-05-20 16:49:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:49:00] - Executing matrix...
+[2026-05-20 16:49:04] 📊 M1 EVAL - Close: 4536.12 | Bias: ↗️ GREEN | Vib: -0.9147
+[2026-05-20 16:49:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.01 | 🔴 LOSS: -55.70 Pips (-55.70 Cents)
+[2026-05-20 16:49:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.01 | 🔴 LOSS: -55.70 Pips (-55.70 Cents)
+[2026-05-20 16:49:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.31 | 🔴 LOSS: -52.70 Pips (-52.70 Cents)
+[2026-05-20 16:49:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.31 | 🔴 LOSS: -52.70 Pips (-52.70 Cents)
+[2026-05-20 16:49:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.48 | 🔴 LOSS: -51.00 Pips (-51.00 Cents)
+[2026-05-20 16:49:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.05 | 🔴 LOSS: -45.30 Pips (-45.30 Cents)
+[2026-05-20 16:49:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.05 | 🔴 LOSS: -45.30 Pips (-45.30 Cents)
+[2026-05-20 16:49:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.89 | 🔴 LOSS: -46.90 Pips (-46.90 Cents)
+[2026-05-20 16:49:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.87 | 🔴 LOSS: -47.10 Pips (-47.10 Cents)
+[2026-05-20 16:49:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.50 | 🔴 LOSS: -50.80 Pips (-50.80 Cents)
+[2026-05-20 16:49:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.53 | 🔴 LOSS: -50.50 Pips (-50.50 Cents)
+[2026-05-20 16:49:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.46 | 🔴 LOSS: -51.20 Pips (-51.20 Cents)
+[2026-05-20 16:49:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.51 | 🔴 LOSS: -50.70 Pips (-50.70 Cents)
+[2026-05-20 16:49:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.31 | 🔴 LOSS: -52.70 Pips (-52.70 Cents)
+[2026-05-20 16:49:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.23 | 🔴 LOSS: -53.50 Pips (-53.50 Cents)
+[2026-05-20 16:49:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.01 | 🔴 LOSS: -55.70 Pips (-55.70 Cents)
+[2026-05-20 16:49:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.23 | 🔴 LOSS: -53.50 Pips (-53.50 Cents)
+[2026-05-20 16:49:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.41 | 🔴 LOSS: -51.70 Pips (-51.70 Cents)
+[2026-05-20 16:49:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.35 | 🔴 LOSS: -52.30 Pips (-52.30 Cents)
+[2026-05-20 16:49:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.06 | 🔴 LOSS: -55.20 Pips (-55.20 Cents)
+[2026-05-20 16:49:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.07 | 🔴 LOSS: -55.10 Pips (-55.10 Cents)
+[2026-05-20 16:49:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.17 | 🔴 LOSS: -54.10 Pips (-54.10 Cents)
+[2026-05-20 16:49:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.34 | 🔴 LOSS: -52.40 Pips (-52.40 Cents)
+[2026-05-20 16:49:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.25 | 🔴 LOSS: -53.30 Pips (-53.30 Cents)
+[2026-05-20 16:49:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.25 | 🔴 LOSS: -53.30 Pips (-53.30 Cents)
+[2026-05-20 16:49:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.13 | 🔴 LOSS: -54.50 Pips (-54.50 Cents)
+[2026-05-20 16:49:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.12 | 🔴 LOSS: -54.60 Pips (-54.60 Cents)
+[2026-05-20 16:49:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.20 | 🔴 LOSS: -53.80 Pips (-53.80 Cents)
+[2026-05-20 16:49:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.33 | 🔴 LOSS: -52.50 Pips (-52.50 Cents)
+[2026-05-20 16:49:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.32 | 🔴 LOSS: -52.60 Pips (-52.60 Cents)
+[2026-05-20 16:49:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.09 | 🔴 LOSS: -54.90 Pips (-54.90 Cents)
+[2026-05-20 16:49:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.02 | 🔴 LOSS: -55.60 Pips (-55.60 Cents)
+[2026-05-20 16:49:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.21 | 🔴 LOSS: -53.70 Pips (-53.70 Cents)
+[2026-05-20 16:49:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.62 | 🔴 LOSS: -49.60 Pips (-49.60 Cents)
+[2026-05-20 16:49:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.99 | 🔴 LOSS: -45.90 Pips (-45.90 Cents)
+[2026-05-20 16:50:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.12 | 🔴 LOSS: -44.60 Pips (-44.60 Cents)
+[2026-05-20 16:50:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.16 | 🔴 LOSS: -44.20 Pips (-44.20 Cents)
+[2026-05-20 16:50:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:50:00] - Executing matrix...
+[2026-05-20 16:50:03] 📊 M1 EVAL - Close: 4537.39 | Bias: ↗️ GREEN | Vib: -0.8023
+[2026-05-20 16:50:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.32 | 🔴 LOSS: -42.60 Pips (-42.60 Cents)
+[2026-05-20 16:50:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.37 | 🔴 LOSS: -42.10 Pips (-42.10 Cents)
+[2026-05-20 16:50:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.99 | 🔴 LOSS: -45.90 Pips (-45.90 Cents)
+[2026-05-20 16:50:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.89 | 🔴 LOSS: -46.90 Pips (-46.90 Cents)
+[2026-05-20 16:50:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.91 | 🔴 LOSS: -46.70 Pips (-46.70 Cents)
+[2026-05-20 16:50:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:50:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.62 | 🔴 LOSS: -49.60 Pips (-49.60 Cents)
+[2026-05-20 16:50:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:50:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:50:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.74 | 🔴 LOSS: -48.40 Pips (-48.40 Cents)
+[2026-05-20 16:50:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:50:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.68 | 🔴 LOSS: -49.00 Pips (-49.00 Cents)
+[2026-05-20 16:50:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:50:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.62 | 🔴 LOSS: -39.60 Pips (-39.60 Cents)
+[2026-05-20 16:50:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.43 | 🔴 LOSS: -41.50 Pips (-41.50 Cents)
+[2026-05-20 16:50:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.07 | 🔴 LOSS: -45.10 Pips (-45.10 Cents)
+[2026-05-20 16:50:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.70 | 🔴 LOSS: -48.80 Pips (-48.80 Cents)
+[2026-05-20 16:50:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:50:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:50:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.17 | 🔴 LOSS: -44.10 Pips (-44.10 Cents)
+[2026-05-20 16:50:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.18 | 🔴 LOSS: -44.00 Pips (-44.00 Cents)
+[2026-05-20 16:50:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:50:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:50:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:50:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.38 | 🔴 LOSS: -42.00 Pips (-42.00 Cents)
+[2026-05-20 16:50:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.92 | 🔴 LOSS: -46.60 Pips (-46.60 Cents)
+[2026-05-20 16:50:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.93 | 🔴 LOSS: -46.50 Pips (-46.50 Cents)
+[2026-05-20 16:50:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.97 | 🔴 LOSS: -46.10 Pips (-46.10 Cents)
+[2026-05-20 16:50:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.29 | 🔴 LOSS: -42.90 Pips (-42.90 Cents)
+[2026-05-20 16:50:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.24 | 🔴 LOSS: -43.40 Pips (-43.40 Cents)
+[2026-05-20 16:50:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.96 | 🔴 LOSS: -46.20 Pips (-46.20 Cents)
+[2026-05-20 16:50:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.88 | 🔴 LOSS: -47.00 Pips (-47.00 Cents)
+[2026-05-20 16:50:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:50:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:50:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.81 | 🔴 LOSS: -47.70 Pips (-47.70 Cents)
+[2026-05-20 16:51:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.68 | 🔴 LOSS: -49.00 Pips (-49.00 Cents)
+[2026-05-20 16:51:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.57 | 🔴 LOSS: -50.10 Pips (-50.10 Cents)
+[2026-05-20 16:51:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:51:00] - Executing matrix...
+[2026-05-20 16:51:02] 📊 M1 EVAL - Close: 4536.57 | Bias: ↗️ GREEN | Vib: -0.9349
+[2026-05-20 16:51:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.92 | 🔴 LOSS: -46.60 Pips (-46.60 Cents)
+[2026-05-20 16:51:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.92 | 🔴 LOSS: -46.60 Pips (-46.60 Cents)
+[2026-05-20 16:51:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.97 | 🔴 LOSS: -46.10 Pips (-46.10 Cents)
+[2026-05-20 16:51:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.01 | 🔴 LOSS: -45.70 Pips (-45.70 Cents)
+[2026-05-20 16:51:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.62 | 🔴 LOSS: -49.60 Pips (-49.60 Cents)
+[2026-05-20 16:51:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.81 | 🔴 LOSS: -47.70 Pips (-47.70 Cents)
+[2026-05-20 16:51:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.70 | 🔴 LOSS: -48.80 Pips (-48.80 Cents)
+[2026-05-20 16:51:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.80 | 🔴 LOSS: -47.80 Pips (-47.80 Cents)
+[2026-05-20 16:51:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.81 | 🔴 LOSS: -47.70 Pips (-47.70 Cents)
+[2026-05-20 16:51:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:51:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.92 | 🔴 LOSS: -46.60 Pips (-46.60 Cents)
+[2026-05-20 16:51:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.68 | 🔴 LOSS: -49.00 Pips (-49.00 Cents)
+[2026-05-20 16:51:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.71 | 🔴 LOSS: -48.70 Pips (-48.70 Cents)
+[2026-05-20 16:51:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:51:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.90 | 🔴 LOSS: -46.80 Pips (-46.80 Cents)
+[2026-05-20 16:51:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.84 | 🔴 LOSS: -47.40 Pips (-47.40 Cents)
+[2026-05-20 16:51:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.07 | 🔴 LOSS: -45.10 Pips (-45.10 Cents)
+[2026-05-20 16:51:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.27 | 🔴 LOSS: -43.10 Pips (-43.10 Cents)
+[2026-05-20 16:51:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.30 | 🔴 LOSS: -42.80 Pips (-42.80 Cents)
+[2026-05-20 16:51:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.31 | 🔴 LOSS: -42.70 Pips (-42.70 Cents)
+[2026-05-20 16:51:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.21 | 🔴 LOSS: -43.70 Pips (-43.70 Cents)
+[2026-05-20 16:51:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.21 | 🔴 LOSS: -43.70 Pips (-43.70 Cents)
+[2026-05-20 16:51:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.75 | 🔴 LOSS: -48.30 Pips (-48.30 Cents)
+[2026-05-20 16:51:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.83 | 🔴 LOSS: -47.50 Pips (-47.50 Cents)
+[2026-05-20 16:51:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.78 | 🔴 LOSS: -48.00 Pips (-48.00 Cents)
+[2026-05-20 16:51:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.74 | 🔴 LOSS: -48.40 Pips (-48.40 Cents)
+[2026-05-20 16:51:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.98 | 🔴 LOSS: -46.00 Pips (-46.00 Cents)
+[2026-05-20 16:51:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.13 | 🔴 LOSS: -44.50 Pips (-44.50 Cents)
+[2026-05-20 16:51:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.01 | 🔴 LOSS: -45.70 Pips (-45.70 Cents)
+[2026-05-20 16:51:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.05 | 🔴 LOSS: -45.30 Pips (-45.30 Cents)
+[2026-05-20 16:51:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.87 | 🔴 LOSS: -47.10 Pips (-47.10 Cents)
+[2026-05-20 16:51:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:51:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:51:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.82 | 🔴 LOSS: -47.60 Pips (-47.60 Cents)
+[2026-05-20 16:51:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.11 | 🔴 LOSS: -44.70 Pips (-44.70 Cents)
+[2026-05-20 16:51:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.40 | 🔴 LOSS: -41.80 Pips (-41.80 Cents)
+[2026-05-20 16:51:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.49 | 🔴 LOSS: -40.90 Pips (-40.90 Cents)
+[2026-05-20 16:52:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.43 | 🔴 LOSS: -41.50 Pips (-41.50 Cents)
+[2026-05-20 16:52:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.30 | 🔴 LOSS: -42.80 Pips (-42.80 Cents)
+[2026-05-20 16:52:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.29 | 🔴 LOSS: -42.90 Pips (-42.90 Cents)
+[2026-05-20 16:52:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:52:00] - Executing matrix...
+[2026-05-20 16:52:04] 📊 M1 EVAL - Close: 4537.31 | Bias: ↗️ GREEN | Vib: -0.7907
+[2026-05-20 16:52:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.28 | 🔴 LOSS: -43.00 Pips (-43.00 Cents)
+[2026-05-20 16:52:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.26 | 🔴 LOSS: -43.20 Pips (-43.20 Cents)
+[2026-05-20 16:52:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.26 | 🔴 LOSS: -43.20 Pips (-43.20 Cents)
+[2026-05-20 16:52:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.40 | 🔴 LOSS: -41.80 Pips (-41.80 Cents)
+[2026-05-20 16:52:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.22 | 🔴 LOSS: -43.60 Pips (-43.60 Cents)
+[2026-05-20 16:52:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.32 | 🔴 LOSS: -42.60 Pips (-42.60 Cents)
+[2026-05-20 16:52:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.12 | 🔴 LOSS: -44.60 Pips (-44.60 Cents)
+[2026-05-20 16:52:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.17 | 🔴 LOSS: -44.10 Pips (-44.10 Cents)
+[2026-05-20 16:52:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.93 | 🔴 LOSS: -46.50 Pips (-46.50 Cents)
+[2026-05-20 16:52:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.99 | 🔴 LOSS: -45.90 Pips (-45.90 Cents)
+[2026-05-20 16:52:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.22 | 🔴 LOSS: -43.60 Pips (-43.60 Cents)
+[2026-05-20 16:52:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.18 | 🔴 LOSS: -44.00 Pips (-44.00 Cents)
+[2026-05-20 16:52:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.80 | 🔴 LOSS: -47.80 Pips (-47.80 Cents)
+[2026-05-20 16:52:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.66 | 🔴 LOSS: -49.20 Pips (-49.20 Cents)
+[2026-05-20 16:52:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:52:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.64 | 🔴 LOSS: -49.40 Pips (-49.40 Cents)
+[2026-05-20 16:52:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.92 | 🔴 LOSS: -46.60 Pips (-46.60 Cents)
+[2026-05-20 16:52:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:52:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.42 | 🔴 LOSS: -51.60 Pips (-51.60 Cents)
+[2026-05-20 16:52:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.22 | 🔴 LOSS: -53.60 Pips (-53.60 Cents)
+[2026-05-20 16:52:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.58 | 🔴 LOSS: -50.00 Pips (-50.00 Cents)
+[2026-05-20 16:52:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.65 | 🔴 LOSS: -49.30 Pips (-49.30 Cents)
+[2026-05-20 16:52:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:52:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.73 | 🔴 LOSS: -48.50 Pips (-48.50 Cents)
+[2026-05-20 16:52:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.43 | 🔴 LOSS: -51.50 Pips (-51.50 Cents)
+[2026-05-20 16:52:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.27 | 🔴 LOSS: -53.10 Pips (-53.10 Cents)
+[2026-05-20 16:52:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.49 | 🔴 LOSS: -50.90 Pips (-50.90 Cents)
+[2026-05-20 16:52:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.62 | 🔴 LOSS: -49.60 Pips (-49.60 Cents)
+[2026-05-20 16:52:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:52:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.09 | 🔴 LOSS: -44.90 Pips (-44.90 Cents)
+[2026-05-20 16:52:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4537.09 | 🔴 LOSS: -44.90 Pips (-44.90 Cents)
+[2026-05-20 16:52:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.79 | 🔴 LOSS: -47.90 Pips (-47.90 Cents)
+[2026-05-20 16:52:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:52:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.70 | 🔴 LOSS: -48.80 Pips (-48.80 Cents)
+[2026-05-20 16:52:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.69 | 🔴 LOSS: -48.90 Pips (-48.90 Cents)
+[2026-05-20 16:53:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.77 | 🔴 LOSS: -48.10 Pips (-48.10 Cents)
+[2026-05-20 16:53:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.72 | 🔴 LOSS: -48.60 Pips (-48.60 Cents)
+[2026-05-20 16:53:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.55 | 🔴 LOSS: -50.30 Pips (-50.30 Cents)
+[2026-05-20 16:53:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:53:00] - Executing matrix...
+[2026-05-20 16:53:03] 📊 M1 EVAL - Close: 4536.55 | Bias: ↗️ GREEN | Vib: -0.6557
+[2026-05-20 16:53:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4536.30 | 🔴 LOSS: -52.80 Pips (-52.80 Cents)
+[2026-05-20 16:53:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.75 | 🔴 LOSS: -58.30 Pips (-58.30 Cents)
+[2026-05-20 16:53:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.82 | 🔴 LOSS: -57.60 Pips (-57.60 Cents)
+[2026-05-20 16:53:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.76 | 🔴 LOSS: -58.20 Pips (-58.20 Cents)
+[2026-05-20 16:53:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.82 | 🔴 LOSS: -57.60 Pips (-57.60 Cents)
+[2026-05-20 16:53:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.28 | 🔴 LOSS: -63.00 Pips (-63.00 Cents)
+[2026-05-20 16:53:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.45 | 🔴 LOSS: -61.30 Pips (-61.30 Cents)
+[2026-05-20 16:53:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.66 | 🔴 LOSS: -59.20 Pips (-59.20 Cents)
+[2026-05-20 16:53:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.53 | 🔴 LOSS: -60.50 Pips (-60.50 Cents)
+[2026-05-20 16:53:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.24 | 🔴 LOSS: -63.40 Pips (-63.40 Cents)
+[2026-05-20 16:53:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.36 | 🔴 LOSS: -62.20 Pips (-62.20 Cents)
+[2026-05-20 16:53:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.19 | 🔴 LOSS: -63.90 Pips (-63.90 Cents)
+[2026-05-20 16:53:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.16 | 🔴 LOSS: -64.20 Pips (-64.20 Cents)
+[2026-05-20 16:53:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4535.12 | 🔴 LOSS: -64.60 Pips (-64.60 Cents)
+[2026-05-20 16:53:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.99 | 🔴 LOSS: -65.90 Pips (-65.90 Cents)
+[2026-05-20 16:53:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.77 | 🔴 LOSS: -68.10 Pips (-68.10 Cents)
+[2026-05-20 16:53:29] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.70 | 🔴 LOSS: -68.80 Pips (-68.80 Cents)
+[2026-05-20 16:53:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.39 | 🔴 LOSS: -71.90 Pips (-71.90 Cents)
+[2026-05-20 16:53:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.13 | 🔴 LOSS: -74.50 Pips (-74.50 Cents)
+[2026-05-20 16:53:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.10 | 🔴 LOSS: -74.80 Pips (-74.80 Cents)
+[2026-05-20 16:53:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.52 | 🔴 LOSS: -70.60 Pips (-70.60 Cents)
+[2026-05-20 16:53:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.37 | 🔴 LOSS: -72.10 Pips (-72.10 Cents)
+[2026-05-20 16:53:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.26 | 🔴 LOSS: -73.20 Pips (-73.20 Cents)
+[2026-05-20 16:53:40] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.00 | 🔴 LOSS: -75.80 Pips (-75.80 Cents)
+[2026-05-20 16:53:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.13 | 🔴 LOSS: -74.50 Pips (-74.50 Cents)
+[2026-05-20 16:53:43] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.15 | 🔴 LOSS: -74.30 Pips (-74.30 Cents)
+[2026-05-20 16:53:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.37 | 🔴 LOSS: -72.10 Pips (-72.10 Cents)
+[2026-05-20 16:53:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.32 | 🔴 LOSS: -72.60 Pips (-72.60 Cents)
+[2026-05-20 16:53:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.52 | 🔴 LOSS: -70.60 Pips (-70.60 Cents)
+[2026-05-20 16:53:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.91 | 🔴 LOSS: -76.70 Pips (-76.70 Cents)
+[2026-05-20 16:53:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.95 | 🔴 LOSS: -76.30 Pips (-76.30 Cents)
+[2026-05-20 16:53:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.14 | 🔴 LOSS: -74.40 Pips (-74.40 Cents)
+[2026-05-20 16:53:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.92 | 🔴 LOSS: -76.60 Pips (-76.60 Cents)
+[2026-05-20 16:53:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.77 | 🔴 LOSS: -78.10 Pips (-78.10 Cents)
+[2026-05-20 16:53:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.79 | 🔴 LOSS: -77.90 Pips (-77.90 Cents)
+[2026-05-20 16:53:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.88 | 🔴 LOSS: -77.00 Pips (-77.00 Cents)
+[2026-05-20 16:54:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.85 | 🔴 LOSS: -77.30 Pips (-77.30 Cents)
+[2026-05-20 16:54:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.15 | 🔴 LOSS: -84.30 Pips (-84.30 Cents)
+[2026-05-20 16:54:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.01 | 🔴 LOSS: -85.70 Pips (-85.70 Cents)
+[2026-05-20 16:54:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:54:00] - Executing matrix...
+[2026-05-20 16:54:04] 📊 M1 EVAL - Close: 4533.01 | Bias: ↗️ GREEN | Vib: -0.0526
+[2026-05-20 16:54:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.58 | 🔴 LOSS: -90.00 Pips (-90.00 Cents)
+[2026-05-20 16:54:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.98 | 🔴 LOSS: -86.00 Pips (-86.00 Cents)
+[2026-05-20 16:54:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.06 | 🔴 LOSS: -85.20 Pips (-85.20 Cents)
+[2026-05-20 16:54:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.07 | 🔴 LOSS: -85.10 Pips (-85.10 Cents)
+[2026-05-20 16:54:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.42 | 🔴 LOSS: -81.60 Pips (-81.60 Cents)
+[2026-05-20 16:54:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.63 | 🔴 LOSS: -79.50 Pips (-79.50 Cents)
+[2026-05-20 16:54:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.69 | 🔴 LOSS: -78.90 Pips (-78.90 Cents)
+[2026-05-20 16:54:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.06 | 🔴 LOSS: -75.20 Pips (-75.20 Cents)
+[2026-05-20 16:54:18] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.01 | 🔴 LOSS: -75.70 Pips (-75.70 Cents)
+[2026-05-20 16:54:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.82 | 🔴 LOSS: -77.60 Pips (-77.60 Cents)
+[2026-05-20 16:54:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.57 | 🔴 LOSS: -80.10 Pips (-80.10 Cents)
+[2026-05-20 16:54:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.61 | 🔴 LOSS: -79.70 Pips (-79.70 Cents)
+[2026-05-20 16:54:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.74 | 🔴 LOSS: -78.40 Pips (-78.40 Cents)
+[2026-05-20 16:54:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.80 | 🔴 LOSS: -77.80 Pips (-77.80 Cents)
+[2026-05-20 16:54:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.58 | 🔴 LOSS: -80.00 Pips (-80.00 Cents)
+[2026-05-20 16:54:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.62 | 🔴 LOSS: -79.60 Pips (-79.60 Cents)
+[2026-05-20 16:54:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.52 | 🔴 LOSS: -80.60 Pips (-80.60 Cents)
+[2026-05-20 16:54:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.54 | 🔴 LOSS: -80.40 Pips (-80.40 Cents)
+[2026-05-20 16:54:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.68 | 🔴 LOSS: -79.00 Pips (-79.00 Cents)
+[2026-05-20 16:54:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.66 | 🔴 LOSS: -79.20 Pips (-79.20 Cents)
+[2026-05-20 16:54:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.02 | 🔴 LOSS: -75.60 Pips (-75.60 Cents)
+[2026-05-20 16:54:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.57 | 🔴 LOSS: -80.10 Pips (-80.10 Cents)
+[2026-05-20 16:54:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.72 | 🔴 LOSS: -78.60 Pips (-78.60 Cents)
+[2026-05-20 16:54:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.88 | 🔴 LOSS: -77.00 Pips (-77.00 Cents)
+[2026-05-20 16:54:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.30 | 🔴 LOSS: -82.80 Pips (-82.80 Cents)
+[2026-05-20 16:54:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.24 | 🔴 LOSS: -83.40 Pips (-83.40 Cents)
+[2026-05-20 16:54:46] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.18 | 🔴 LOSS: -84.00 Pips (-84.00 Cents)
+[2026-05-20 16:54:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.24 | 🔴 LOSS: -83.40 Pips (-83.40 Cents)
+[2026-05-20 16:54:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.46 | 🔴 LOSS: -81.20 Pips (-81.20 Cents)
+[2026-05-20 16:54:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.48 | 🔴 LOSS: -81.00 Pips (-81.00 Cents)
+[2026-05-20 16:54:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.50 | 🔴 LOSS: -80.80 Pips (-80.80 Cents)
+[2026-05-20 16:54:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.42 | 🔴 LOSS: -81.60 Pips (-81.60 Cents)
+[2026-05-20 16:54:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.49 | 🔴 LOSS: -80.90 Pips (-80.90 Cents)
+[2026-05-20 16:54:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.55 | 🔴 LOSS: -80.30 Pips (-80.30 Cents)
+[2026-05-20 16:54:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.38 | 🔴 LOSS: -82.00 Pips (-82.00 Cents)
+[2026-05-20 16:55:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.39 | 🔴 LOSS: -81.90 Pips (-81.90 Cents)
+[2026-05-20 16:55:01] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.28 | 🔴 LOSS: -83.00 Pips (-83.00 Cents)
+[2026-05-20 16:55:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.27 | 🔴 LOSS: -83.10 Pips (-83.10 Cents)
+[2026-05-20 16:55:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:55:00] - Executing matrix...
+[2026-05-20 16:55:03] 📊 M1 EVAL - Close: 4533.27 | Bias: ↗️ GREEN | Vib: 0.0811
+[2026-05-20 16:55:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.85 | 🔴 LOSS: -87.30 Pips (-87.30 Cents)
+[2026-05-20 16:55:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.85 | 🔴 LOSS: -87.30 Pips (-87.30 Cents)
+[2026-05-20 16:55:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.74 | 🔴 LOSS: -78.40 Pips (-78.40 Cents)
+[2026-05-20 16:55:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.54 | 🔴 LOSS: -80.40 Pips (-80.40 Cents)
+[2026-05-20 16:55:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.53 | 🔴 LOSS: -80.50 Pips (-80.50 Cents)
+[2026-05-20 16:55:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.78 | 🔴 LOSS: -78.00 Pips (-78.00 Cents)
+[2026-05-20 16:55:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.92 | 🔴 LOSS: -76.60 Pips (-76.60 Cents)
+[2026-05-20 16:55:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.55 | 🔴 LOSS: -80.30 Pips (-80.30 Cents)
+[2026-05-20 16:55:17] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.20 | 🔴 LOSS: -73.80 Pips (-73.80 Cents)
+[2026-05-20 16:55:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4534.09 | 🔴 LOSS: -74.90 Pips (-74.90 Cents)
+[2026-05-20 16:55:20] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.59 | 🔴 LOSS: -79.90 Pips (-79.90 Cents)
+[2026-05-20 16:55:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.64 | 🔴 LOSS: -79.40 Pips (-79.40 Cents)
+[2026-05-20 16:55:23] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.36 | 🔴 LOSS: -82.20 Pips (-82.20 Cents)
+[2026-05-20 16:55:25] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.99 | 🔴 LOSS: -85.90 Pips (-85.90 Cents)
+[2026-05-20 16:55:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.95 | 🔴 LOSS: -86.30 Pips (-86.30 Cents)
+[2026-05-20 16:55:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.95 | 🔴 LOSS: -86.30 Pips (-86.30 Cents)
+[2026-05-20 16:55:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.46 | 🔴 LOSS: -81.20 Pips (-81.20 Cents)
+[2026-05-20 16:55:31] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.10 | 🔴 LOSS: -84.80 Pips (-84.80 Cents)
+[2026-05-20 16:55:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.21 | 🔴 LOSS: -83.70 Pips (-83.70 Cents)
+[2026-05-20 16:55:34] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.51 | 🔴 LOSS: -80.70 Pips (-80.70 Cents)
+[2026-05-20 16:55:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.38 | 🔴 LOSS: -82.00 Pips (-82.00 Cents)
+[2026-05-20 16:55:37] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.47 | 🔴 LOSS: -81.10 Pips (-81.10 Cents)
+[2026-05-20 16:55:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.42 | 🔴 LOSS: -81.60 Pips (-81.60 Cents)
+[2026-05-20 16:55:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.49 | 🔴 LOSS: -80.90 Pips (-80.90 Cents)
+[2026-05-20 16:55:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.37 | 🔴 LOSS: -82.10 Pips (-82.10 Cents)
+[2026-05-20 16:55:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.43 | 🔴 LOSS: -81.50 Pips (-81.50 Cents)
+[2026-05-20 16:55:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.35 | 🔴 LOSS: -82.30 Pips (-82.30 Cents)
+[2026-05-20 16:55:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.31 | 🔴 LOSS: -82.70 Pips (-82.70 Cents)
+[2026-05-20 16:55:49] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.96 | 🔴 LOSS: -86.20 Pips (-86.20 Cents)
+[2026-05-20 16:55:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.88 | 🔴 LOSS: -87.00 Pips (-87.00 Cents)
+[2026-05-20 16:55:52] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.71 | 🔴 LOSS: -88.70 Pips (-88.70 Cents)
+[2026-05-20 16:55:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.37 | 🔴 LOSS: -92.10 Pips (-92.10 Cents)
+[2026-05-20 16:55:55] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.40 | 🔴 LOSS: -91.80 Pips (-91.80 Cents)
+[2026-05-20 16:55:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.38 | 🔴 LOSS: -92.00 Pips (-92.00 Cents)
+[2026-05-20 16:55:58] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.56 | 🔴 LOSS: -90.20 Pips (-90.20 Cents)
+[2026-05-20 16:56:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.58 | 🔴 LOSS: -90.00 Pips (-90.00 Cents)
+[2026-05-20 16:56:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.67 | 🔴 LOSS: -89.10 Pips (-89.10 Cents)
+[2026-05-20 16:56:03] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.70 | 🔴 LOSS: -98.80 Pips (-98.80 Cents)
+[2026-05-20 16:56:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:56:00] - Executing matrix...
+[2026-05-20 16:56:04] 📊 M1 EVAL - Close: 4531.70 | Bias: ↘️ RED | Vib: 0.1768
+[2026-05-20 16:56:04] 💥 CONFLUENCE VALIDATED: Dispatching SELL order...
+[2026-05-20 16:56:06] ✅ EXECUTED: Ticket #1932774374 loaded at 4532.18.
+[2026-05-20 16:56:06] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.17 | 🔴 LOSS: -94.10 Pips (-94.10 Cents)
+[2026-05-20 16:56:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.54 | 🔴 LOSS: -90.40 Pips (-90.40 Cents)
+[2026-05-20 16:56:09] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.66 | 🔴 LOSS: -89.20 Pips (-89.20 Cents)
+[2026-05-20 16:56:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.83 | 🔴 LOSS: -87.50 Pips (-87.50 Cents)
+[2026-05-20 16:56:12] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.06 | 🔴 LOSS: -95.20 Pips (-95.20 Cents)
+[2026-05-20 16:56:14] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.74 | 🔴 LOSS: -98.40 Pips (-98.40 Cents)
+[2026-05-20 16:56:16] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.88 | 🔴 LOSS: -97.00 Pips (-97.00 Cents)
+[2026-05-20 16:56:19] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.94 | 🔴 LOSS: -96.40 Pips (-96.40 Cents)
+[2026-05-20 16:56:21] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.88 | 🔴 LOSS: -97.00 Pips (-97.00 Cents)
+[2026-05-20 16:56:22] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.89 | 🔴 LOSS: -96.90 Pips (-96.90 Cents)
+[2026-05-20 16:56:24] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.76 | 🔴 LOSS: -98.20 Pips (-98.20 Cents)
+[2026-05-20 16:56:25] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 16:56:26] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.61 | 🔴 LOSS: -99.70 Pips (-99.70 Cents)
+[2026-05-20 16:56:27] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.73 | 🔴 LOSS: -98.50 Pips (-98.50 Cents)
+[2026-05-20 16:56:28] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.95 | 🔴 LOSS: -96.30 Pips (-96.30 Cents)
+[2026-05-20 16:56:30] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.88 | 🔴 LOSS: -97.00 Pips (-97.00 Cents)
+[2026-05-20 16:56:32] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.91 | 🔴 LOSS: -96.70 Pips (-96.70 Cents)
+[2026-05-20 16:56:33] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.91 | 🔴 LOSS: -96.70 Pips (-96.70 Cents)
+[2026-05-20 16:56:35] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.87 | 🔴 LOSS: -97.10 Pips (-97.10 Cents)
+[2026-05-20 16:56:36] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.98 | 🔴 LOSS: -96.00 Pips (-96.00 Cents)
+[2026-05-20 16:56:38] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.00 | 🔴 LOSS: -95.80 Pips (-95.80 Cents)
+[2026-05-20 16:56:39] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.15 | 🔴 LOSS: -94.30 Pips (-94.30 Cents)
+[2026-05-20 16:56:41] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.19 | 🔴 LOSS: -93.90 Pips (-93.90 Cents)
+[2026-05-20 16:56:42] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.75 | 🔴 LOSS: -88.30 Pips (-88.30 Cents)
+[2026-05-20 16:56:44] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.74 | 🔴 LOSS: -88.40 Pips (-88.40 Cents)
+[2026-05-20 16:56:45] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.66 | 🔴 LOSS: -89.20 Pips (-89.20 Cents)
+[2026-05-20 16:56:47] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.83 | 🔴 LOSS: -87.50 Pips (-87.50 Cents)
+[2026-05-20 16:56:48] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.05 | 🔴 LOSS: -85.30 Pips (-85.30 Cents)
+[2026-05-20 16:56:50] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.08 | 🔴 LOSS: -85.00 Pips (-85.00 Cents)
+[2026-05-20 16:56:51] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4533.10 | 🔴 LOSS: -84.80 Pips (-84.80 Cents)
+[2026-05-20 16:56:53] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.92 | 🔴 LOSS: -86.60 Pips (-86.60 Cents)
+[2026-05-20 16:56:54] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.88 | 🔴 LOSS: -87.00 Pips (-87.00 Cents)
+[2026-05-20 16:56:56] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.75 | 🔴 LOSS: -88.30 Pips (-88.30 Cents)
+[2026-05-20 16:56:57] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.77 | 🔴 LOSS: -88.10 Pips (-88.10 Cents)
+[2026-05-20 16:56:59] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.93 | 🔴 LOSS: -86.50 Pips (-86.50 Cents)
+[2026-05-20 16:57:00] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.59 | 🔴 LOSS: -89.90 Pips (-89.90 Cents)
+[2026-05-20 16:57:02] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.59 | 🔴 LOSS: -89.90 Pips (-89.90 Cents)
+[2026-05-20 16:57:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 18:57:00] - Executing matrix...
+[2026-05-20 16:57:03] 📊 M1 EVAL - Close: 4532.45 | Bias: ↘️ RED | Vib: 0.8187
+[2026-05-20 16:57:04] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.14 | 🔴 LOSS: -94.40 Pips (-94.40 Cents)
+[2026-05-20 16:57:05] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.14 | 🔴 LOSS: -94.40 Pips (-94.40 Cents)
+[2026-05-20 16:57:07] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.21 | 🔴 LOSS: -93.70 Pips (-93.70 Cents)
+[2026-05-20 16:57:08] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.10 | 🔴 LOSS: -94.80 Pips (-94.80 Cents)
+[2026-05-20 16:57:10] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.02 | 🔴 LOSS: -95.60 Pips (-95.60 Cents)
+[2026-05-20 16:57:11] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4532.05 | 🔴 LOSS: -95.30 Pips (-95.30 Cents)
+[2026-05-20 16:57:13] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.94 | 🔴 LOSS: -96.40 Pips (-96.40 Cents)
+[2026-05-20 16:57:15] 🛰️ POSITION TELEMETRY | Ticket #1932620258 | BUY | Entry: 4541.58 ➡️ Live: 4531.65 | 🔴 LOSS: -99.30 Pips (-99.30 Cents)
+[2026-05-20 16:57:16] 🚫 STOP HIT / MANUAL CLOSE: Clearing trade tracking metrics. 🏁
+[2026-05-20 16:57:16] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 18:00:00] - Scanning Matrix...
+[2026-05-20 16:57:16] 📊 H1 EVAL - Close: 4531.71 | Bias: ↗️ GREEN | Kurtosis: 4.6156
+[2026-05-20 16:57:16] 💥 CONFLUENCE VALIDATED: Dispatching single BUY order...
+[2026-05-20 16:57:17] ✅ EXECUTED: Ticket #1932778971 loaded. Tracking active.
+[2026-05-20 16:57:19] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4532.02 | 🔴 LOSS: -1.40 Pips (-1.40 Cents)
+[2026-05-20 16:57:20] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4531.86 | 🔴 LOSS: -3.00 Pips (-3.00 Cents)
+[2026-05-20 16:57:22] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4531.57 | 🔴 LOSS: -5.90 Pips (-5.90 Cents)
+[2026-05-20 16:57:23] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4531.54 | 🔴 LOSS: -6.20 Pips (-6.20 Cents)
+[2026-05-20 16:57:25] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4531.70 | 🔴 LOSS: -4.60 Pips (-4.60 Cents)
+[2026-05-20 16:57:26] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4531.52 | 🔴 LOSS: -6.40 Pips (-6.40 Cents)
+[2026-05-20 16:57:28] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4530.33 | 🔴 LOSS: -18.30 Pips (-18.30 Cents)
+[2026-05-20 16:57:29] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4528.74 | 🔴 LOSS: -34.20 Pips (-34.20 Cents)
+[2026-05-20 16:57:31] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4527.95 | 🔴 LOSS: -42.10 Pips (-42.10 Cents)
+[2026-05-20 16:57:32] 🛰️ POSITION TELEMETRY | Ticket #1932778971 | BUY | Entry: 4532.16 ➡️ Live: 4527.58 | 🔴 LOSS: -45.80 Pips (-45.80 Cents)
+[2026-05-20 16:57:34] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 16:57:39] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 17:00:27] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 17:00:27] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 17:00:27] 🛰️ SCANNERS ENGAGED: Standing by for high-volatility H1 updates...
+[2026-05-20 17:00:28] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 19:00:00] - Scanning Matrix...
+[2026-05-20 17:00:28] 📊 H1 EVAL - Close: 4529.19 | Bias: ↗️ GREEN | Kurtosis: 4.9454
+[2026-05-20 17:05:17] 📞 SYSTEM INITIATION: Running M1 ultra-fast breakout engine for [XAUUSD]...
+[2026-05-20 17:05:17] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 17:05:17] 🛰️ SCANNERS ENGAGED: Tracking high-volatility metrics on M1 data packets...
+[2026-05-20 17:05:18] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:05:00] - Scanning breakout matrix...
+[2026-05-20 17:05:18] 📊 M1 EVAL - Close: 4531.99 | Bias: ↘️ RED | Kurtosis: 1.7449
+[2026-05-20 17:06:00] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:06:00] - Scanning breakout matrix...
+[2026-05-20 17:06:03] 📊 M1 EVAL - Close: 4532.34 | Bias: ↘️ RED | Kurtosis: 1.8082
+[2026-05-20 17:07:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:07:00] - Scanning breakout matrix...
+[2026-05-20 17:07:02] 📊 M1 EVAL - Close: 4534.33 | Bias: ↘️ RED | Kurtosis: 1.6970
+[2026-05-20 17:07:28] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 17:07:40] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 17:07:40] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 17:07:40] 🛰️ SCANNERS ENGAGED: Standing by for high-volatility H1 updates...
+[2026-05-20 17:07:41] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 19:00:00] - Scanning Matrix...
+[2026-05-20 17:07:41] 📊 H1 EVAL - Close: 4534.44 | Bias: ↗️ GREEN | Kurtosis: 4.8035
+[2026-05-20 17:08:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:08:00] - Scanning breakout matrix...
+[2026-05-20 17:08:01] 📊 M1 EVAL - Close: 4534.78 | Bias: ↘️ RED | Kurtosis: 1.5380
+[2026-05-20 17:09:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:09:00] - Scanning breakout matrix...
+[2026-05-20 17:09:02] 📊 M1 EVAL - Close: 4533.11 | Bias: ↘️ RED | Kurtosis: 0.8982
+[2026-05-20 17:10:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:10:00] - Scanning breakout matrix...
+[2026-05-20 17:10:02] 📊 M1 EVAL - Close: 4533.61 | Bias: ↘️ RED | Kurtosis: 1.0386
+[2026-05-20 17:11:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:11:00] - Scanning breakout matrix...
+[2026-05-20 17:11:01] 📊 M1 EVAL - Close: 4534.05 | Bias: ↘️ RED | Kurtosis: 1.0297
+[2026-05-20 17:12:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:12:00] - Scanning breakout matrix...
+[2026-05-20 17:12:01] 📊 M1 EVAL - Close: 4532.03 | Bias: ↘️ RED | Kurtosis: 0.3518
+[2026-05-20 17:13:00] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:13:00] - Scanning breakout matrix...
+[2026-05-20 17:13:00] 📊 M1 EVAL - Close: 4532.35 | Bias: ↘️ RED | Kurtosis: 1.4721
+[2026-05-20 17:14:04] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:14:00] - Scanning breakout matrix...
+[2026-05-20 17:14:04] 📊 M1 EVAL - Close: 4533.41 | Bias: ↘️ RED | Kurtosis: 1.4305
+[2026-05-20 17:15:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:15:00] - Scanning breakout matrix...
+[2026-05-20 17:15:03] 📊 M1 EVAL - Close: 4533.27 | Bias: ↘️ RED | Kurtosis: 1.6853
+[2026-05-20 17:16:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:16:00] - Scanning breakout matrix...
+[2026-05-20 17:16:02] 📊 M1 EVAL - Close: 4532.19 | Bias: ↘️ RED | Kurtosis: 1.1250
+[2026-05-20 17:17:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:17:00] - Scanning breakout matrix...
+[2026-05-20 17:17:02] 📊 M1 EVAL - Close: 4531.16 | Bias: ↘️ RED | Kurtosis: -0.7297
+[2026-05-20 17:18:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:18:00] - Scanning breakout matrix...
+[2026-05-20 17:18:02] 📊 M1 EVAL - Close: 4530.49 | Bias: ↘️ RED | Kurtosis: -0.6647
+[2026-05-20 17:19:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:19:00] - Scanning breakout matrix...
+[2026-05-20 17:19:01] 📊 M1 EVAL - Close: 4531.20 | Bias: ↘️ RED | Kurtosis: -0.5802
+[2026-05-20 17:20:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:20:00] - Scanning breakout matrix...
+[2026-05-20 17:20:02] 📊 M1 EVAL - Close: 4530.72 | Bias: ↘️ RED | Kurtosis: -0.5928
+[2026-05-20 17:21:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:21:00] - Scanning breakout matrix...
+[2026-05-20 17:21:01] 📊 M1 EVAL - Close: 4527.45 | Bias: ↘️ RED | Kurtosis: -0.5206
+[2026-05-20 17:22:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:22:00] - Scanning breakout matrix...
+[2026-05-20 17:22:01] 📊 M1 EVAL - Close: 4526.26 | Bias: ↘️ RED | Kurtosis: -0.7667
+[2026-05-20 17:23:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:23:00] - Scanning breakout matrix...
+[2026-05-20 17:23:01] 📊 M1 EVAL - Close: 4526.22 | Bias: ↘️ RED | Kurtosis: -0.6891
+[2026-05-20 17:24:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:24:00] - Scanning breakout matrix...
+[2026-05-20 17:24:02] 📊 M1 EVAL - Close: 4527.39 | Bias: ↘️ RED | Kurtosis: -0.7294
+[2026-05-20 17:25:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:25:00] - Scanning breakout matrix...
+[2026-05-20 17:25:01] 📊 M1 EVAL - Close: 4525.99 | Bias: ↘️ RED | Kurtosis: -0.8896
+[2026-05-20 17:26:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:26:00] - Scanning breakout matrix...
+[2026-05-20 17:26:01] 📊 M1 EVAL - Close: 4525.43 | Bias: ↘️ RED | Kurtosis: -0.7940
+[2026-05-20 17:27:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:27:00] - Scanning breakout matrix...
+[2026-05-20 17:27:01] 📊 M1 EVAL - Close: 4525.83 | Bias: ↘️ RED | Kurtosis: -0.6724
+[2026-05-20 17:28:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:28:00] - Scanning breakout matrix...
+[2026-05-20 17:28:02] 📊 M1 EVAL - Close: 4527.18 | Bias: ↘️ RED | Kurtosis: -0.4046
+[2026-05-20 17:29:48] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 19:29:00] - Scanning breakout matrix...
+[2026-05-20 17:29:48] 📊 M1 EVAL - Close: 4524.42 | Bias: ↘️ RED | Kurtosis: -0.8281
+[2026-05-20 17:30:15] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 17:30:20] 🚫 SHUTDOWN COMMAND: Safely shutting down system terminals.
+[2026-05-20 18:39:58] 📞 SYSTEM INITIATION: Running M1 ultra-fast breakout engine for [XAUUSD]...
+[2026-05-20 18:39:59] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 18:41:16] ❌ ERROR: Initialization pipelines could not lock connections.
+[2026-05-20 18:41:55] 📞 SYSTEM INITIATION: Running M1 ultra-fast breakout engine for [XAUUSD]...
+[2026-05-20 18:43:13] 📞 SYSTEM INITIATION: Running M1 ultra-fast breakout engine for [XAUUSD]...
+[2026-05-20 18:43:27] 📞 SYSTEM INITIATION: Running H1 single-entry core engine for [XAUUSD]...
+[2026-05-20 18:43:45] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 18:43:45] 🛰️ SCANNERS ENGAGED: Standing by for high-volatility H1 updates...
+[2026-05-20 18:43:45] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 18:43:45] 🛰️ SCANNERS ENGAGED: Tracking high-volatility metrics on M1 data packets...
+[2026-05-20 18:43:47] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 19:00:00] - Scanning Matrix...
+trix...
+[2026-05-20 18:43:47] 📊 H1 EVAL - Close: 4524.27 | Bias: ↗️ GREEN | Kurtosis: 4.8753
+[2026-05-20 18:43:47] 📊 M1 EVAL - Close: 4524.27 | Bias: ↘️ RED | Kurtosis: -0.8338
+[2026-05-20 18:43:48] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 20:00:00] - Scanning Matrix...
+[2026-05-20 18:43:48] 📊 H1 EVAL - Close: 4533.40 | Bias: ↗️ GREEN | Kurtosis: 4.7991
+[2026-05-20 18:43:48] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:43:00] - Scanning breakout matrix...
+[2026-05-20 18:43:48] 📊 M1 EVAL - Close: 4533.40 | Bias: ↘️ RED | Kurtosis: -0.1896
+[2026-05-20 18:44:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:44:00] - Scanning breakout matrix...
+[2026-05-20 18:44:03] 📊 M1 EVAL - Close: 4533.61 | Bias: ↘️ RED | Kurtosis: 0.0539
+[2026-05-20 18:45:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:45:00] - Scanning breakout matrix...
+[2026-05-20 18:45:02] 📊 M1 EVAL - Close: 4533.18 | Bias: ↘️ RED | Kurtosis: -0.0241
+[2026-05-20 18:46:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:46:00] - Scanning breakout matrix...
+[2026-05-20 18:46:02] 📊 M1 EVAL - Close: 4534.20 | Bias: ↗️ GREEN | Kurtosis: -0.1781
+[2026-05-20 18:47:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:47:00] - Scanning breakout matrix...
+[2026-05-20 18:47:01] 📊 M1 EVAL - Close: 4534.24 | Bias: ↘️ RED | Kurtosis: 0.2775
+[2026-05-20 18:48:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:48:00] - Scanning breakout matrix...
+[2026-05-20 18:48:01] 📊 M1 EVAL - Close: 4533.45 | Bias: ↗️ GREEN | Kurtosis: 0.3506
+[2026-05-20 18:49:00] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:49:00] - Scanning breakout matrix...
+[2026-05-20 18:49:01] 📊 M1 EVAL - Close: 4532.82 | Bias: ↗️ GREEN | Kurtosis: 0.3745
+[2026-05-20 18:50:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:50:00] - Scanning breakout matrix...
+[2026-05-20 18:50:01] 📊 M1 EVAL - Close: 4533.61 | Bias: ↘️ RED | Kurtosis: 0.9100
+[2026-05-20 18:51:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:51:00] - Scanning breakout matrix...
+[2026-05-20 18:51:02] 📊 M1 EVAL - Close: 4533.22 | Bias: ↗️ GREEN | Kurtosis: 1.1043
+[2026-05-20 18:52:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:52:00] - Scanning breakout matrix...
+[2026-05-20 18:52:02] 📊 M1 EVAL - Close: 4532.76 | Bias: ↗️ GREEN | Kurtosis: 1.2353
+[2026-05-20 18:53:18] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:53:00] - Scanning breakout matrix...
+[2026-05-20 18:53:18] 📊 M1 EVAL - Close: 4533.11 | Bias: ↗️ GREEN | Kurtosis: 1.5824
+[2026-05-20 18:54:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:54:00] - Scanning breakout matrix...
+[2026-05-20 18:54:01] 📊 M1 EVAL - Close: 4532.30 | Bias: ↗️ GREEN | Kurtosis: 1.3851
+[2026-05-20 18:55:35] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:55:00] - Scanning breakout matrix...
+[2026-05-20 18:55:35] 📊 M1 EVAL - Close: 4532.35 | Bias: ↗️ GREEN | Kurtosis: 2.6146
+[2026-05-20 18:56:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:56:00] - Scanning breakout matrix...
+[2026-05-20 18:56:02] 📊 M1 EVAL - Close: 4532.04 | Bias: ↘️ RED | Kurtosis: -0.8728
+[2026-05-20 18:57:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:57:00] - Scanning breakout matrix...
+[2026-05-20 18:57:01] 📊 M1 EVAL - Close: 4531.80 | Bias: ↘️ RED | Kurtosis: -0.8558
+[2026-05-20 18:58:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:58:00] - Scanning breakout matrix...
+[2026-05-20 18:58:01] 📊 M1 EVAL - Close: 4531.12 | Bias: ↘️ RED | Kurtosis: -0.7126
+[2026-05-20 18:59:12] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 20:59:00] - Scanning breakout matrix...
+[2026-05-20 18:59:12] 📊 M1 EVAL - Close: 4531.16 | Bias: ↘️ RED | Kurtosis: -0.5713
+[2026-05-20 19:00:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:00:00] - Scanning breakout matrix...
+[2026-05-20 19:00:01] 📊 M1 EVAL - Close: 4531.40 | Bias: ↘️ RED | Kurtosis: -0.6757
+[2026-05-20 19:00:01] 🎬 NEW H1 CANDLE DETECTED: [2026-05-20 21:00:00] - Scanning Matrix...
+[2026-05-20 19:00:01] 📊 H1 EVAL - Close: 4531.46 | Bias: ↗️ GREEN | Kurtosis: 4.7849
+[2026-05-20 19:01:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:01:00] - Scanning breakout matrix...
+[2026-05-20 19:01:02] 📊 M1 EVAL - Close: 4530.75 | Bias: ↘️ RED | Kurtosis: -0.5889
+[2026-05-20 19:02:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:02:00] - Scanning breakout matrix...
+[2026-05-20 19:02:01] 📊 M1 EVAL - Close: 4531.47 | Bias: ↘️ RED | Kurtosis: -0.8602
+[2026-05-20 19:03:00] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:03:00] - Scanning breakout matrix...
+[2026-05-20 19:03:00] 📊 M1 EVAL - Close: 4530.87 | Bias: ↘️ RED | Kurtosis: -0.9227
+[2026-05-20 19:04:00] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:04:00] - Scanning breakout matrix...
+[2026-05-20 19:04:00] 📊 M1 EVAL - Close: 4532.01 | Bias: ↘️ RED | Kurtosis: -1.0191
+[2026-05-20 19:05:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:05:00] - Scanning breakout matrix...
+[2026-05-20 19:05:01] 📊 M1 EVAL - Close: 4532.33 | Bias: ↘️ RED | Kurtosis: -0.8245
+[2026-05-20 19:06:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:06:00] - Scanning breakout matrix...
+[2026-05-20 19:06:02] 📊 M1 EVAL - Close: 4530.83 | Bias: ↘️ RED | Kurtosis: -0.6690
+[2026-05-20 19:07:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:07:00] - Scanning breakout matrix...
+[2026-05-20 19:07:02] 📊 M1 EVAL - Close: 4531.67 | Bias: ↘️ RED | Kurtosis: -0.7784
+[2026-05-20 19:08:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:08:00] - Scanning breakout matrix...
+[2026-05-20 19:08:01] 📊 M1 EVAL - Close: 4533.31 | Bias: ↘️ RED | Kurtosis: -0.4336
+[2026-05-20 19:09:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:09:00] - Scanning breakout matrix...
+[2026-05-20 19:09:01] 📊 M1 EVAL - Close: 4532.51 | Bias: ↘️ RED | Kurtosis: -0.2118
+[2026-05-20 19:10:05] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:10:00] - Scanning breakout matrix...
+[2026-05-20 19:10:05] 📊 M1 EVAL - Close: 4533.38 | Bias: ↘️ RED | Kurtosis: -0.3693
+[2026-05-20 19:11:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:11:00] - Scanning breakout matrix...
+[2026-05-20 19:11:01] 📊 M1 EVAL - Close: 4533.15 | Bias: ↘️ RED | Kurtosis: -0.2508
+[2026-05-20 19:12:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:12:00] - Scanning breakout matrix...
+[2026-05-20 19:12:02] 📊 M1 EVAL - Close: 4533.49 | Bias: ↘️ RED | Kurtosis: -0.2737
+[2026-05-20 19:13:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:13:00] - Scanning breakout matrix...
+[2026-05-20 19:13:02] 📊 M1 EVAL - Close: 4533.03 | Bias: ↘️ RED | Kurtosis: 0.0285
+[2026-05-20 19:14:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:14:00] - Scanning breakout matrix...
+[2026-05-20 19:14:02] 📊 M1 EVAL - Close: 4532.20 | Bias: ↘️ RED | Kurtosis: -0.1208
+[2026-05-20 19:15:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:15:00] - Scanning breakout matrix...
+[2026-05-20 19:15:02] 📊 M1 EVAL - Close: 4533.15 | Bias: ↘️ RED | Kurtosis: -0.0640
+[2026-05-20 19:16:01] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:16:00] - Scanning breakout matrix...
+[2026-05-20 19:16:01] 📊 M1 EVAL - Close: 4534.45 | Bias: ↘️ RED | Kurtosis: -0.1227
+[2026-05-20 19:31:30] 📞 SYSTEM INITIATION: Running M1 ultra-fast breakout engine for [XAUUSD]...
+[2026-05-20 19:31:41] ✅ CONNECTION ESTABLISHED: MT5 data stream pipe open. 🚀
+[2026-05-20 19:31:42] 🛰️ SCANNERS ENGAGED: Tracking high-volatility metrics on M1 data packets...
+[2026-05-20 19:31:42] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:16:00] - Scanning breakout matrix...
+[2026-05-20 19:31:42] 📊 M1 EVAL - Close: 4534.68 | Bias: ↗️ GREEN | Kurtosis: -0.0857
+[2026-05-20 19:31:45] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:31:00] - Scanning breakout matrix...
+[2026-05-20 19:31:45] 📊 M1 EVAL - Close: 4537.11 | Bias: ↗️ GREEN | Kurtosis: -0.2955
+[2026-05-20 19:32:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:32:00] - Scanning breakout matrix...
+[2026-05-20 19:32:02] 📊 M1 EVAL - Close: 4537.26 | Bias: ↗️ GREEN | Kurtosis: -0.2659
+[2026-05-20 19:33:02] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:33:00] - Scanning breakout matrix...
+[2026-05-20 19:33:02] 📊 M1 EVAL - Close: 4536.93 | Bias: ↗️ GREEN | Kurtosis: -0.2405
+[2026-05-20 19:34:03] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:34:00] - Scanning breakout matrix...
+[2026-05-20 19:34:03] 📊 M1 EVAL - Close: 4537.27 | Bias: ↗️ GREEN | Kurtosis: -0.2685
+[2026-05-20 19:35:00] 🎬 NEW M1 CANDLE DETECTED: [2026-05-20 21:35:00] - Scanning breakout matrix...
+[2026-05-20 19:35:00] 📊 M1 EVAL - Close: 4539.90 | Bias: ↗️ GREEN | Kurtosis: -0.0661
